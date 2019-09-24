@@ -1,0 +1,23 @@
+newmtl SwampCollisionBox
+Ks 0 0 0
+Ns 51.200001
+d 0.000000
+newmtl SwampOuterBuxh
+Ks 0 0 0
+Ns 51.200001
+map_Kd ATEXSwampBushBackground.TIFF
+d 1.000000
+newmtl STX01SwampTree
+Ks 0 0 0
+Ns 64.000000
+map_Kd TEXSwampTreeBark.TIFF
+d 1.000000
+newmtl STX02SwampWater
+Ns 128.000000
+map_Kd TEXSwampWaterA.TIFF
+d 1.000000
+newmtl STX03SwampWaterEdge
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXSwampWatersEdge.TIFF
+d 1.000000

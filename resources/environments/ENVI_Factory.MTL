@@ -1,0 +1,66 @@
+newmtl FactoryCollisionBox
+Ks 0 0 0
+Ns 51.200001
+d 0.000000
+newmtl STX04FactorywallsDark
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXFactorywall.TIFF
+d 1.000000
+newmtl STX04FactorywallsLight
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXFactorywall.TIFF
+d 1.000000
+newmtl FactoryWindowFrames
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl STX03FactoryWindowsUpper
+Ns 51.200001
+map_Kd TEXFactorywindow.TIFF
+d 1.000000
+newmtl FactoryUpperWindowFrames
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl FactoryDoorFrames
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl STX01FactoryDoor
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXFactorydoor.TIFF
+d 1.000000
+newmtl STX03FactoryWindowsLower
+Ns 51.200001
+map_Kd TEXFactorywindow.TIFF
+d 1.000000
+newmtl FactoryLampLight
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXFactorylight.TIFF
+d 1.000000
+newmtl FactoryLamplead
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl FactoryLampLightBell
+Ns 128.000000
+d 1.000000
+newmtl STX02FactoryFloor
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXFactoryfloor.TIFF
+d 1.000000
+newmtl STX05Factoryroof1
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXFactoryRoof.TIFF
+d 1.000000
+newmtl STX05Factoryroof2
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXFactoryRoof.TIFF
+d 1.000000

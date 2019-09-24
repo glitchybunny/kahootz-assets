@@ -1,0 +1,71 @@
+newmtl 14Default
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+d 0.000000
+newmtl STX01RaceTrackGrass
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXRaceTrackGrass.TIFF
+d 1.000000
+newmtl STX02RaceTrackWater
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXRaceTrackWaterA.TIFF
+d 1.000000
+newmtl RacetrackStand
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXRacetrackStand.TIFF
+d 1.000000
+newmtl RacetrackWood
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXRacetrackwood.TIFF
+d 1.000000
+newmtl RaceTrackEdge
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXRaceTrackEdge.TIFF
+d 1.000000
+newmtl RaceTrackWalkway
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXRacetrackWalkWay.TIFF
+d 1.000000
+newmtl RaceTrackSign
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXRacetrackSign.TIFF
+d 1.000000
+newmtl STX03RaceTrackTrack
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXRaceTrackTrack.TIFF
+d 1.000000
+newmtl RaceTrackFinishLine
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXFinishLine.TIFF
+d 1.000000
+newmtl RacetrackMetal
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXRacetrackStand.TIFF
+d 1.000000
+newmtl STX04RaceTrackFinish
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXRaceTrackFinish.TIFF
+d 1.000000

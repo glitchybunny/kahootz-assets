@@ -1,0 +1,118 @@
+newmtl RotundaParkCollisionBox
+Ks 0 0 0
+Ns 51.200001
+d 0.000000
+newmtl STX04RotundaParkColour02grass
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXRotundaParkColour02.TIFF
+d 1.000000
+newmtl RotundaParkroofFrame
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXRotundaParkroofFrame.TIFF
+d 1.000000
+newmtl RotundaroofVerander
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl RotundaParkroofEdge
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl RotundaParkRotundaFloor
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl RotundaParkroof
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXRotundaParkroof.TIFF
+d 1.000000
+newmtl RotundaParkcolumn
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl RotundaParkrooffence
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXRotundaParkroof.TIFF
+d 1.000000
+newmtl RotundaParkfenceTop
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl RotundaParkroofEdgeTop
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl RotundaroofTop
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl RotundaParkdome
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl RotundaParkdomeLight
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl RotundaParkwater
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXRotundaParkwater.TIFF
+d 1.000000
+newmtl STX02RotundaParkstone
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXRotundaParkstone.TIFF
+d 1.000000
+newmtl STX03RotundaParkColour01fence
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXRotundaParkColour01.TIFF
+d 1.000000
+newmtl RotundaParklightPole
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl RotundaParklight
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl STX01RotundaParkflowerhedgetops
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXRotundaParkflowerHedge.TIFF
+d 1.000000
+newmtl STX01RotundaParkflowerHedgesmall
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXRotundaParkflowerHedge.TIFF
+d 1.000000
+newmtl RotundaParkrocks
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXRotundaParkrocks.TIFF
+d 1.000000
+newmtl RotundaParkwaterpond1
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXRotundaParkwater.TIFF
+d 1.000000
+newmtl RotundaParkwaterpond2
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXRotundaParkwater.TIFF
+d 1.000000
+newmtl STX01RotundaParkflowerHedge
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXRotundaParkflowerHedge.TIFF
+d 1.000000
+newmtl STX01RotundaParkflowerHedgeRow
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXRotundaParkflowerHedge.TIFF
+d 1.000000

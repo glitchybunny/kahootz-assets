@@ -1,0 +1,64 @@
+newmtl SolarSystemCollisionBox
+Ks 0 0 0
+Ns 51.200001
+d 0.000000
+newmtl null
+Ka 1 1 1
+Ks 0 0 0
+Ns 0.000000
+d 0.000000
+newmtl STX02SolarSystemsun
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXSolarSystemsunA.TIFF
+d 1.000000
+newmtl SolarSystemmercury
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXSolarSystemmercury.TIFF
+d 1.000000
+newmtl SolarSystemvenus
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXSolarSystemvenus.TIFF
+d 1.000000
+newmtl STX01SolarSystemearth
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXSolarSystemearth.TIFF
+d 1.000000
+newmtl SolarSystemmars
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXSolarSystemmars.TIFF
+d 1.000000
+newmtl STX03SolarSystemjupiter
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXSolarSystemjupiter.TIFF
+d 1.000000
+newmtl STX04SolarSystemsaturn
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXSolarSystemsaturn.TIFF
+d 1.000000
+newmtl SolarSystemsaturnsRing
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXSolarSystemsaturnRings.TIFF
+d 0.500000
+newmtl SolarSystemneptune
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXSolarSystemneptune.TIFF
+d 1.000000
+newmtl SolarSystemuranus
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXSolarSystemuranus.TIFF
+d 1.000000
+newmtl SolarSystempluto
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXSolarSystempluto.TIFF
+d 1.000000

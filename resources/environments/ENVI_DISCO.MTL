@@ -1,0 +1,67 @@
+newmtl DISCOCollisionBox
+Ks 0 0 0
+Ns 51.200001
+d 0.000000
+newmtl null
+Ka 1 1 1
+Ks 0 0 0
+Ns 0.000000
+d 0.000000
+newmtl DISCOWall
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXDISCOwall.TIFF
+d 1.000000
+newmtl STX02DISCODfRoof
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXDISCODfRoofA.TIFF
+d 1.000000
+newmtl STX03DISCODfWalls1
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXDISCODfWallsA.TIFF
+d 1.000000
+newmtl STX03DISCODfWalls2
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXDISCODfWallsA.TIFF
+d 1.000000
+newmtl STX01DISCOCarpet
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXDISCOCarpet.TIFF
+d 1.000000
+newmtl STX04DISCODanceFloor
+Ns 51.200001
+map_Kd TEXDISCOdanceFloorA.TIFF
+d 1.000000
+newmtl DISCOCeiling
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXDISCOCeiling.TIFF
+d 1.000000
+newmtl DISCOMirrorBall
+Ns 51.200001
+map_Kd TEXDISCOmirrorBall.TIFF
+d 1.000000
+newmtl DISCOMirrorBallcord
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl DiscolightCasing
+Ns 76.800003
+d 1.000000
+newmtl STX05DiscoLightBeamlightglobe
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXDISCOLightBeam.TIFF
+d 1.000000
+newmtl Discobase
+Ns 76.800003
+d 1.000000
+newmtl STX05DiscolightBeam
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXDISCOLightBeam.TIFF
+d 0.250000

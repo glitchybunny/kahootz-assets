@@ -1,0 +1,51 @@
+newmtl MaxFactoryCollisionBox
+Ks 0 0 0
+Ns 51.200001
+d 0.000000
+newmtl STX03MaxFactoryFactoryRoof
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXMaxFactoryRoof.TIFF
+d 1.000000
+newmtl STX04MaxFactoryFactoryWalls
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXMaxFactorybrick.TIFF
+d 1.000000
+newmtl STX01MaxFactoryFactoryRoofRibbing
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXMaxFactoryRoofRibbing.TIFF
+d 1.000000
+newmtl STX02MaxFactoryStageFloor
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXMaxFactoryStageFloor.TIFF
+d 1.000000
+newmtl STX05MaxFactoryFloor
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXMaxFactoryFloor.TIFF
+d 1.000000
+newmtl MaxFactoryEndlessFactory
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXMaxFactoryEndlessWall.TIFF
+d 1.000000
+newmtl MaxFactoryOutsideWorld
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXMaxFactoryOutsideWorld.TIFF
+d 1.000000
+newmtl MaxFactoryLightBody
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl MaxFactoryLightGlobe
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl MaxFactoryPole01
+Ks 0 0 0
+Ns 51.200001
+d 1.000000

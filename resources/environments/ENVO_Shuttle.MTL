@@ -1,0 +1,162 @@
+newmtl ShuttleCollisionBox
+Ks 0 0 0
+Ns 51.200001
+d 0.000000
+newmtl STX01ShuttlefloorsteeringWheels
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXShuttlefloor.TIFF
+d 1.000000
+newmtl ShuttlesteeringWheelShaft
+Ns 128.000000
+d 1.000000
+newmtl ShuttleHullColour
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl Shuttlemonitor02PilotConsolemain
+Ns 128.000000
+map_Kd TEXShuttlemonitor02A.TIFF
+d 1.000000
+newmtl STX01ShuttlefloorCarpet
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXShuttlefloor.TIFF
+d 1.000000
+newmtl ShuttlesideWindowFrames
+Ns 128.000000
+d 1.000000
+newmtl ShuttlesideWindowsFramesInner
+Ns 128.000000
+d 1.000000
+newmtl Shuttlemonitor04PilotConsoleupper
+Ns 128.000000
+map_Kd TEXShuttlemonitor04A.TIFF
+d 1.000000
+newmtl Shuttlemonitor03PilotConsoleupper2
+Ns 128.000000
+map_Kd TEXShuttlemonitor03.TIFF
+d 1.000000
+newmtl ShuttleTableSides
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl Shuttlemonitor05TableTop
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXShuttlemonitor05.TIFF
+d 1.000000
+newmtl STX02Shuttlehull03Table
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXShuttlehull03.TIFF
+d 1.000000
+newmtl STX01ShuttlefloorSeatCushion
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXShuttlefloor.TIFF
+d 1.000000
+newmtl Shuttleseat
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl Shuttlemonitor01CentreConsoleRoofBottom
+Ns 128.000000
+map_Kd TEXShuttlemonitor01A.TIFF
+d 1.000000
+newmtl Shuttlemonitor03CentreConsoleUpSides
+Ns 128.000000
+map_Kd TEXShuttlemonitor03.TIFF
+d 1.000000
+newmtl Shuttlemonitor04CentreConsole1
+Ns 128.000000
+map_Kd TEXShuttlemonitor04A.TIFF
+d 1.000000
+newmtl Shuttlemonitor01CentreConsoletop
+Ns 128.000000
+map_Kd TEXShuttlemonitor01A.TIFF
+d 1.000000
+newmtl Shuttlemonitor01CentreConsole3
+Ns 128.000000
+map_Kd TEXShuttlemonitor01A.TIFF
+d 1.000000
+newmtl Shuttlemonitor03CentreConsoleScreen01
+Ns 128.000000
+map_Kd TEXShuttlemonitor03.TIFF
+d 1.000000
+newmtl Shuttlemonitor04CentreConsole2
+Ns 128.000000
+map_Kd TEXShuttlemonitor04A.TIFF
+d 1.000000
+newmtl STX02Shuttlehull03Floor
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXShuttlehull03.TIFF
+d 1.000000
+newmtl STX02Shuttlehull03rearramp
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXShuttlehull03.TIFF
+d 1.000000
+newmtl STX02Shuttlehull03rearrampSides
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXShuttlehull03.TIFF
+d 1.000000
+newmtl STX04Shuttlehull01rear
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXShuttlehull01.TIFF
+d 1.000000
+newmtl STX03Shuttlehull05Roof
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXShuttlehull05.TIFF
+d 1.000000
+newmtl STX05Shuttlehull04outerHull
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXShuttlehull04.TIFF
+d 1.000000
+newmtl STX05Shuttlehull04outerHull2
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXShuttlehull04.TIFF
+d 1.000000
+newmtl ShuttleJetsouter
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXShuttlehull03.TIFF
+d 1.000000
+newmtl STX02Shuttlehull03LowerSide
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXShuttlehull03.TIFF
+d 1.000000
+newmtl ShuttleJetsinner
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl ShuttleJets
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl ShuttleWindows
+Ns 128.000000
+d 0.250000
+newmtl ShuttleWindowsouterWindows
+Ns 128.000000
+d 0.250000
+newmtl ShuttleWindowEdging
+Ns 128.000000
+d 1.000000
+newmtl STX04Shuttlehull01mainHull
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXShuttlehull01.TIFF
+d 1.000000
+newmtl null
+Ka 1 1 1
+Ks 0 0 0
+Ns 0.000000
+d 0.000000

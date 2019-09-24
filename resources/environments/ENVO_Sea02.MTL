@@ -1,0 +1,22 @@
+newmtl CalmSeacollisionBox
+Ks 0 0 0
+Ns 51.200001
+d 0.000000
+newmtl null
+Ka 1 1 1
+Ks 0 0 0
+Ns 0.000000
+d 0.000000
+newmtl STX01Sea02
+Ns 128.000000
+map_Kd TEXSea02A.TIFF
+d 1.000000
+newmtl Sea02UnderWater
+Ns 128.000000
+map_Kd TEXSea02UnderWater.TIFF
+d 1.000000
+newmtl Sea02Outerwater
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXSea02OuterWater.TIFF
+d 1.000000

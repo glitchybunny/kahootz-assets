@@ -1,0 +1,35 @@
+newmtl outbackcollisionBox
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+d 0.000000
+newmtl STX04outbackhillsfar
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXoutbackhillsfar.TIFF
+d 1.000000
+newmtl STX02outbackhill2
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXoutbackhill2.TIFF
+d 1.000000
+newmtl STX02outbackhill
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXoutbackhill.TIFF
+d 1.000000
+newmtl STX01outbacklightsand
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXoutbacklightsand.TIFF
+d 1.000000
+newmtl STX03outbackdarksand
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXoutbackdarksand.TIFF
+d 1.000000

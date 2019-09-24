@@ -1,0 +1,34 @@
+newmtl VolcanoCollisionBox
+Ks 0 0 0
+Ns 51.200001
+d 0.000000
+newmtl STX01VolcanoBase
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXVOLCANObasebefore.TIFF
+d 1.000000
+newmtl Volcanocone
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXVOLCANOconebefore.TIFF
+d 1.000000
+newmtl VolcanoFarmOuter
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXVOLCANOFarmOuterbefore.TIFF
+d 1.000000
+newmtl STX03VolcanoFarmLand2
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXVOLCANOFarmLand2before.TIFF
+d 1.000000
+newmtl STX02VolcanoFarmLand1
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXVOLCANOFarmLand1before.TIFF
+d 1.000000
+newmtl STX04VolcanomountainMap
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXVOLCANOmountainMapbefore.TIFF
+d 1.000000

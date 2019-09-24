@@ -1,0 +1,49 @@
+newmtl FireEscapeCollisionBoxInvisible
+Ks 0 0 0
+Ns 51.200001
+d 0.000000
+newmtl STX03FireEscapeTexture03StairFloor02
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXFireEscapeTexture03.TIFF
+d 1.000000
+newmtl STX01FireEscapeTexture01Roof
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXFireEscapeTexture01.TIFF
+d 1.000000
+newmtl STX04FireEscapeTexture04StairSides
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXFireEscapeTexture04.TIFF
+d 1.000000
+newmtl STX04FireEscapeTexture04StairSides03
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXFireEscapeTexture04.TIFF
+d 1.000000
+newmtl STX02FireEscapeTexture02StairFloor01
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXFireEscapeTexture02.TIFF
+d 1.000000
+newmtl STX01FireEscapeTexture01WallDark
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXFireEscapeTexture01.TIFF
+d 1.000000
+newmtl FireEscapeRailings
+Ns 51.200001
+d 1.000000
+newmtl STX01FireEscapeTexture01WallLight
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXFireEscapeTexture01.TIFF
+d 1.000000
+newmtl STX05FireEscapeColour01Door01
+Ns 51.200001
+map_Kd TEXFireEscapeColour01.TIFF
+d 1.000000
+newmtl FireEscapeDoorHandle
+Ns 51.200001
+d 1.000000

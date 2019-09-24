@@ -1,0 +1,118 @@
+newmtl House02CollisionBox
+Ks 0 0 0
+Ns 51.200001
+d 0.000000
+newmtl House02frontStep
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl STX02House02Colour01roof
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXHouse02Colour01.TIFF
+d 1.000000
+newmtl House02roofGutter
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl STX03House02Colour02garage
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXHouse02Colour02.TIFF
+d 1.000000
+newmtl House02frontStepShaded
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl House02garageDoor
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXHouse02garageDoor.TIFF
+d 1.000000
+newmtl STX01House02wallsshadow
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXHouse02walls.TIFF
+d 1.000000
+newmtl STX01House02walls
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXHouse02walls.TIFF
+d 1.000000
+newmtl House02waterPipe
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl Default
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl House02grass
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl House02windowTopInside
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl STX03House02Colour02windowTop
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXHouse02Colour02.TIFF
+d 1.000000
+newmtl STX04House02Colour03window
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXHouse02Colour03.TIFF
+d 1.000000
+newmtl House02windowFrame
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl House02windowFrameLight
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl STX03House02Colour02doorFrame
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXHouse02Colour02.TIFF
+d 1.000000
+newmtl STX03House02Colour02poles
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXHouse02Colour02.TIFF
+d 1.000000
+newmtl STX03House02Colour02fencePost
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXHouse02Colour02.TIFF
+d 1.000000
+newmtl House02fence
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXHouse02fence.TIFF
+d 1.000000
+newmtl House02doorsfront
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXHouse02doors.TIFF
+d 1.000000
+newmtl House02doorhandelBase
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl House02doorhandel
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl House02doors
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXHouse02doors.TIFF
+d 1.000000
+newmtl STX04House02Colour03windowShade
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXHouse02Colour03.TIFF
+d 1.000000

@@ -1,0 +1,112 @@
+newmtl MarketSquareCollisionBoxshader
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+d 0.000000
+newmtl MarketSquareBlackRoof
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXMarketSquareBlackRoof.TIFF
+d 1.000000
+newmtl MarketSquareRedbrickBuilding
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXMarketSquareRedbrickBuilding.TIFF
+d 1.000000
+newmtl MarketSquarefootpath
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXMarketSquarefootpath.TIFF
+d 1.000000
+newmtl MarketSquarewhitebuilding
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXMarketSquarewhitebuilding.TIFF
+d 1.000000
+newmtl MarketSquareRedRoof
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXMarketSquareRedRoof.TIFF
+d 1.000000
+newmtl MarketSquareCafe
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXMarketSquareCafe.TIFF
+d 1.000000
+newmtl MarketSquareGreyBuilding
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXMarketSquareGreyBuilding.TIFF
+d 1.000000
+newmtl MarketSquareBeigeBuilding
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXMarketSquareBeigeBuilding.TIFF
+d 1.000000
+newmtl STX02MarketSquareTiles
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXMarketSquareTiles.TIFF
+d 1.000000
+newmtl STX01MarketSquareSmallTiles
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXMarketSquareSmallTiles.TIFF
+d 1.000000
+newmtl MarketSquareMarketBuilding
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXMarketSquareMarketBuilding.TIFF
+d 1.000000
+newmtl STX03MarketSquareInternalWalls
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXMarketSquareInternalWalls.TIFF
+d 1.000000
+newmtl STX04MarketSquareAwning
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXMarketSquareAwning.TIFF
+d 1.000000
+newmtl MarketSquareAwningSupport
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+d 1.000000
+newmtl MarketSquareBlockBuilding
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXMarketSquareBlockBuilding.TIFF
+d 1.000000
+newmtl MarketSquareFloorTiles
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXMarketSquareFloorTiles.TIFF
+d 1.000000
+newmtl MarketSquarePlateOne
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXMarketSquarePlateOne.TIFF
+d 1.000000
+newmtl MarketSquarePlateTwo
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXMarketSquarePlateTwo.TIFF
+d 1.000000

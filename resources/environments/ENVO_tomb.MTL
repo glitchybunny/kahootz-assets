@@ -1,0 +1,65 @@
+newmtl tombcollisionBox
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+d 0.000000
+newmtl tombhillsfar
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXtombhillsfar.TIFF
+d 1.000000
+newmtl tombsand
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXtombsand.TIFF
+d 1.000000
+newmtl STX01tombbricks
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXtombbricks.TIFF
+d 1.000000
+newmtl STX02tombwall03
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXtombwall03.TIFF
+d 1.000000
+newmtl STX01tombsandstone
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXtombsandstone.TIFF
+d 1.000000
+newmtl tombsar01
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXtombsar01.TIFF
+d 1.000000
+newmtl tombsar02
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXtombsar02.TIFF
+d 1.000000
+newmtl tombsar03
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXtombsar03.TIFF
+d 1.000000
+newmtl STX03tombwall01
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXtombwall01.TIFF
+d 1.000000
+newmtl STX04tombwall02
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXtombwall02.TIFF
+d 1.000000

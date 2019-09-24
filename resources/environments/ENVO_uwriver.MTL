@@ -1,0 +1,65 @@
+newmtl uwrivercollisionBox
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.800000
+d 0.000000
+newmtl STX02uwriverdirt
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXuwriverdirt.TIFF
+d 1.000000
+newmtl STX03uwriverrocksA
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXuwriverrocksA.TIFF
+d 1.000000
+newmtl uwriversanddark
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXuwriversanddark.TIFF
+d 1.000000
+newmtl uwriversand
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXuwriversand.TIFF
+d 1.000000
+newmtl STX04uwrivergrass
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXuwrivergrass.TIFF
+d 1.000000
+newmtl uwrivertwigs
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXuwrivertwigs.TIFF
+d 1.000000
+newmtl STX03uwriverdirtwaterA
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXuwriverdirtwaterA.TIFF
+d 1.000000
+newmtl uwriverlog
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXuwriverlog.TIFF
+d 1.000000
+newmtl STX01uwriverwaterA
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXuwriverwaterA.TIFF
+d 1.000000
+newmtl uwriverboulders
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXuwriverboulders.TIFF
+d 1.000000

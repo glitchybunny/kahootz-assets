@@ -1,0 +1,127 @@
+newmtl BasketBallCourtCollisionBox
+Ks 0 0 0
+Ns 51.200001
+d 0.000000
+newmtl null
+Ka 1 1 1
+Ks 0 0 0
+Ns 0.000000
+d 0.000000
+newmtl BasketBallCourtFence
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXBasketBallCourtSteelFence.TIFF
+d 0.615000
+newmtl BasketBallCourtBoundaryLine
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl BasketBallCourtFreeThrowSideLine
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl BasketBallCourtFreeThrowLine
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl STX03BasketBallCourtColour01Base
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXBasketBallCourtColour01.TIFF
+d 1.000000
+newmtl BasketBallCourtFreeThrowBase
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl STX04BasketBallCourtColour02InnerKey
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXBasketBallCourtColour02.TIFF
+d 1.000000
+newmtl BasketBallCourtCenterLine
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl BasketBallCourtCenterRing2
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl BasketBallCourtCenterRing1
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl STX04BasketBallCourtColour02CenterCourt2
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXBasketBallCourtColour02.TIFF
+d 1.000000
+newmtl BasketBallCourtCenterCourt1
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl BasketBallCourtSmallRings
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl BasketBallCourtLargeRings
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl STX01BasketBallCourtConcrete2InnerGround
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXBasketBallCourtConcrete2.TIFF
+d 1.000000
+newmtl BasketBallCourtFenceFrame
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl STX02BasketBallCourtGrass2
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXBasketBallCourtGrass2.TIFF
+d 1.000000
+newmtl BasketBallCourtFootPath
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXBasketBallCourtConcrete.TIFF
+d 1.000000
+newmtl BasketBallCourtNatureStrip
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXBasketBallCourtGrass.TIFF
+d 1.000000
+newmtl BasketBallCourtRoad
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXBasketBallCourtRoad.TIFF
+d 1.000000
+newmtl BasketBallCourtCurb
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXBasketBallCourtConcrete.TIFF
+d 1.000000
+newmtl BasketBallCourtFootPath2
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXBasketBallCourtConcrete.TIFF
+d 1.000000
+newmtl BasketBallCourtWoodenFence
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXBasketBallCourtFence.TIFF
+d 1.000000
+newmtl STX01BasketBallCourtConcrete2Ground
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXBasketBallCourtConcrete2.TIFF
+d 1.000000
+newmtl BasketBallCourtFenceDoor
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl BasketBallCourtFenceDoorScreen
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXBasketBallCourtSteelFence.TIFF
+d 0.615000

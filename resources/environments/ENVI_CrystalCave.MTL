@@ -1,0 +1,42 @@
+newmtl CrystalCaveCollisionBox
+Ks 0 0 0
+Ns 51.200001
+d 0.000000
+newmtl STX02CrystalCavefloor
+Ns 128.000000
+map_Kd TEXCrystalCavefloor.TIFF
+d 1.000000
+newmtl STX03CrystalCavewall
+Ns 128.000000
+map_Kd TEXCrystalCavewall.TIFF
+d 1.000000
+newmtl STX03CrystalCavewallroof
+Ns 128.000000
+map_Kd TEXCrystalCavewall.TIFF
+d 1.000000
+newmtl STX04CrystalCaveskylight
+Ks 0 0 0
+Ns 128.000000
+map_Kd TEXCrystalCaveskyLight.TIFF
+d 1.000000
+newmtl STX01CrystalCavecrystal01
+Ns 128.000000
+map_Kd TEXCrystalCavecrystal.TIFF
+d 1.000000
+newmtl STX01CrystalCavecrystal02
+Ns 128.000000
+map_Kd TEXCrystalCavecrystal.TIFF
+d 1.000000
+newmtl STX01CrystalCavecrystal03
+Ns 128.000000
+map_Kd TEXCrystalCavecrystal.TIFF
+d 1.000000
+newmtl STX01CrystalCavecrystal04
+Ns 128.000000
+map_Kd TEXCrystalCavecrystal.TIFF
+d 1.000000
+newmtl STX04CrystalCaveskylightdoorWay
+Ks 0 0 0
+Ns 128.000000
+map_Kd TEXCrystalCaveskyLight.TIFF
+d 1.000000

@@ -1,0 +1,54 @@
+newmtl ARAZONACollisionBox
+Ks 0 0 0
+Ns 51.200001
+d 0.000000
+newmtl STX02ARAZONAsand
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXArazonasand.TIFF
+d 1.000000
+newmtl STX03ARAZONArock02
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXArazonarock.TIFF
+d 1.000000
+newmtl STX03ARAZONArock02face
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXArazonarock.TIFF
+d 1.000000
+newmtl STX03ARAZONArock01
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXArazonarock.TIFF
+d 1.000000
+newmtl STX03ARAZONArock01face
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXArazonarock.TIFF
+d 1.000000
+newmtl STX03ARAZONArock03
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXArazonarock.TIFF
+d 1.000000
+newmtl STX03ARAZONArock03face
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXArazonarock.TIFF
+d 1.000000
+newmtl STX03ARAZONArock04
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXArazonarock.TIFF
+d 1.000000
+newmtl STX03ARAZONArock04face
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXArazonarock.TIFF
+d 1.000000
+newmtl STX03ARAZONArock
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXArazonarock.TIFF
+d 1.000000

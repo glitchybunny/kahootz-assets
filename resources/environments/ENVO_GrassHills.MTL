@@ -1,0 +1,14 @@
+newmtl GHILLSCollisionBox
+Ks 0 0 0
+Ns 51.200001
+d 0.000000
+newmtl STX01GrassHillsgrass
+Ks 0 0 0
+Ns 25.600000
+map_Kd TEXGrassHillsgrass.TIFF
+d 1.000000
+newmtl STX01GrassHillsgrassouter
+Ks 0 0 0
+Ns 25.600000
+map_Kd TEXGrassHillsgrass.TIFF
+d 1.000000

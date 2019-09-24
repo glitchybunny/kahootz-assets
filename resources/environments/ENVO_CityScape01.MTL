@@ -1,0 +1,54 @@
+newmtl CityScape01CollisionBox
+Ks 0 0 0
+Ns 51.200001
+d 0.000000
+newmtl STX01CityScapeLand011
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXCityScape01Land01.TIFF
+d 1.000000
+newmtl STX02CityScapeLand022
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXCityScape01Land02.TIFF
+d 1.000000
+newmtl STX04CityScapeIntersection
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXCityScape01intersection.TIFF
+d 1.000000
+newmtl STX03CityScapeRoadZ1
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXCityScape01road.TIFF
+d 1.000000
+newmtl STX03CityScapeRoadX1
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXCityScape01road.TIFF
+d 1.000000
+newmtl STX03CityScapeRoadX2
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXCityScape01road.TIFF
+d 1.000000
+newmtl STX03CityScapeRoadZ2
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXCityScape01road.TIFF
+d 1.000000
+newmtl STX01CityScapeLand01Outer01
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXCityScape01Land01.TIFF
+d 1.000000
+newmtl CityScapeFootPath
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXCityScape01footpath.TIFF
+d 1.000000
+newmtl STX02CityScapeLand02Outer02
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXCityScape01Land02.TIFF
+d 1.000000

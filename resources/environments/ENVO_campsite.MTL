@@ -1,0 +1,71 @@
+newmtl campsitecollisionBox
+Ka 0 0 0
+Ks 0 0 0
+Ns 12.799999
+d 0.000000
+newmtl STX04campsitewoodplanks
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXcampsitewoodplanks.TIFF
+d 1.000000
+newmtl campsitewoodplanks02
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXcampsitewoodplanks02.TIFF
+d 1.000000
+newmtl campsiteconcrete
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXcampsiteconcrete.TIFF
+d 1.000000
+newmtl STX03campsiteroad
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXcampsiteroad.TIFF
+d 1.000000
+newmtl STX02campsitegrass
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXcampsitegrass.TIFF
+d 1.000000
+newmtl campsitesand
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXcampsitesand.TIFF
+d 1.000000
+newmtl campsitedarkgrass
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXcampsitedarkgrass.TIFF
+d 1.000000
+newmtl STX03campsitecarpark
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXcampsitecarpark.TIFF
+d 1.000000
+newmtl STX01campsiteseabedA
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXcampsiteseabedA.TIFF
+d 1.000000
+newmtl STX01campsiteWaterA
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXcampsiteWaterA.TIFF
+d 1.000000
+newmtl campsitehills
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXcampsitehills.TIFF
+d 1.000000

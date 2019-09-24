@@ -1,0 +1,97 @@
+newmtl SubwayCollisionBox
+Ks 0 0 0
+Ns 51.200001
+d 0.000000
+newmtl STX02SubwayTiles02RoofArch01
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXSubwayTiles02.TIFF
+d 1.000000
+newmtl STX02SubwayTiles02RoofArch03
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXSubwayTiles02.TIFF
+d 1.000000
+newmtl STX03SubwayTiles03ArchBrick
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXSubwayTiles03.TIFF
+d 1.000000
+newmtl STX03SubwayTiles03trim
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXSubwayTiles03.TIFF
+d 1.000000
+newmtl STX04SubwayBillboard01
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXSubwayBillBoard.TIFF
+d 1.000000
+newmtl STX01SubwayTiles01light
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXSubwayTiles01.TIFF
+d 1.000000
+newmtl STX01SubwayTiles01TunnelWallFlat02
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXSubwayTiles01.TIFF
+d 1.000000
+newmtl STX01SubwayTiles01TunnelWallFlat
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXSubwayTiles01.TIFF
+d 1.000000
+newmtl STX04SubwayBillBoard02
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXSubwayBillBoard.TIFF
+d 1.000000
+newmtl STX02SubwayTiles02RoofArch04
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXSubwayTiles02.TIFF
+d 1.000000
+newmtl SubwayLights
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl SubwayPlatform
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXSubwayPlatform.TIFF
+d 1.000000
+newmtl SubwaySuports
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXSubwaysupports.TIFF
+d 1.000000
+newmtl SubwayTrackGutter
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl SubwayTrackDirt
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXSubwayTrack.TIFF
+d 1.000000
+newmtl SubwayTrack
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXSubwayTrack.TIFF
+d 1.000000
+newmtl STX01SubwayTiles01TunnelWallFlatlight
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXSubwayTiles01.TIFF
+d 1.000000
+newmtl STX02SubwayTiles02WallLight
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXSubwayTiles02.TIFF
+d 1.000000
+newmtl STX05SubwayTunnelWall
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXSubwayTunnelWall.TIFF
+d 1.000000

@@ -1,0 +1,83 @@
+newmtl SwimmingPoolCollisionBox
+Ka 0 0 0
+Ks 0 0 0
+Ns 12.800000
+d 0.000000
+newmtl STX01SwimmingPoolGrass
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.800000
+map_Kd TEXSwimmingPoolGrass.TIFF
+d 1.000000
+newmtl SwimmingPoolRoof
+Ka 0 0 0
+Ks 0 0 0
+Ns 12.800000
+d 1.000000
+newmtl SwimmingPoolConcrete
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.800000
+map_Kd TEXSwimmingPoolConcrete.TIFF
+d 1.000000
+newmtl SwimmingPoolBlackLines
+Ka 0 0 0
+Ks 0 0 0
+Ns 12.800000
+d 1.000000
+newmtl STX03SwimmingPoolPoolTilesA
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.800000
+map_Kd TEXSwimmingPoolPoolTilesA.TIFF
+d 1.000000
+newmtl STX02SwimmingPoolWaterA
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.800000
+map_Kd TEXSwimmingPoolWaterA.TIFF
+d 0.850000
+newmtl SwimmingPoolDivingBoard
+Ka 0 0 0
+Ks 0 0 0
+Ns 12.800000
+d 1.000000
+newmtl SwimmingPoolChangeRoom
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.800000
+map_Kd TEXSwimmingPoolChangeRoom.TIFF
+d 1.000000
+newmtl SwimmingPoolGreyPaint
+Ka 0 0 0
+Ks 0 0 0
+Ns 12.800000
+d 1.000000
+newmtl SwimmingPoolBluePaint
+Ka 0 0 0
+Ks 0 0 0
+Ns 12.800000
+d 1.000000
+newmtl SwimmingPoolLadder
+Ka 0 0 0
+Ks 0 0 0
+Ns 12.800000
+d 1.000000
+newmtl STX04SwimmingPoolTiles
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.800000
+map_Kd TEXSwimmingPoolTiles.TIFF
+d 1.000000
+newmtl SwimmingPoolRoad
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.800000
+map_Kd TEXSwimmingPoolRoad.TIFF
+d 1.000000
+newmtl SwimmingPoolFence
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.800000
+map_Kd TEXSwimmingPoolFence.TIFF
+d 1.000000

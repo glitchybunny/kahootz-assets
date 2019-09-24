@@ -1,0 +1,93 @@
+newmtl HospitalCollisionBox
+Ka 0 0 0
+Ks 0 0 0
+Ns 12.799999
+d 0.000000
+newmtl HospitalWindows
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXHospitalWindows.TIFF
+d 1.000000
+newmtl Material5
+Ka 0 0 0
+Ks 0 0 0
+Ns 12.800000
+d 1.000000
+newmtl STX03HospitalRoad
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXHospitalRoad.TIFF
+d 1.000000
+newmtl HospitalFrames
+Ka 0 0 0
+Ks 0 0 0
+Ns 12.799999
+d 1.000000
+newmtl HospitalBlue
+Ka 0 0 0
+Ks 0 0 0
+Ns 12.799999
+d 1.000000
+newmtl HospitalWhite
+Ka 0 0 0
+Ks 0 0 0
+Ns 12.799999
+d 1.000000
+newmtl HospitalRed
+Ka 0 0 0
+Ks 0 0 0
+Ns 12.799999
+d 1.000000
+newmtl HospitalBeige
+Ka 0 0 0
+Ks 0 0 0
+Ns 12.799999
+d 1.000000
+newmtl HospitalFloorTiles
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXHospitalFloorTiles.TIFF
+d 1.000000
+newmtl STX04HospitalSign
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXHospitalSign.TIFF
+d 1.000000
+newmtl STX03HospitalAsphalt
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXHospitalAsphalt.TIFF
+d 1.000000
+newmtl HospitalGlass
+Ka 0 0 0
+Ks 0 0 0
+Ns 12.799999
+d 0.500000
+newmtl STX02HospitalTile
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXHospitalTile.TIFF
+d 1.000000
+newmtl HospitalCarPark
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXHospitalCarPark.TIFF
+d 1.000000
+newmtl STX01HospitalGrass
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXHospitalGrass.TIFF
+d 1.000000
+newmtl DefaultMaterial5
+Ka 0 0 0
+Ks 0 0 0
+Ns 28.799999
+d 1.000000

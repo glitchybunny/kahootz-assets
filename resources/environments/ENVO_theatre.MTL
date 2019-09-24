@@ -1,0 +1,130 @@
+newmtl TheatrecollisionBox
+Ka 0 0 0
+Ks 0 0 0
+Ns 12.799999
+d 0.000000
+newmtl STX01Theatrewallsnormal
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXTheatrewallsnormal.TIFF
+d 1.000000
+newmtl STX01Theatrewalls
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXTheatrewalls.TIFF
+d 1.000000
+newmtl Theatreextwalls
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXTheatreextwalls.TIFF
+d 1.000000
+newmtl Theatrefoothpath
+Ka 0 0 0
+Ks 0 0 0
+Ns 12.799999
+d 1.000000
+newmtl Theatrefeltwalls
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXTheatrefeltwalls.TIFF
+d 1.000000
+newmtl Theatreboard
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXTheatreboard.TIFF
+d 1.000000
+newmtl Theatreexteriorwindows
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXTheatreexteriorwindows.TIFF
+d 1.000000
+newmtl Theatrestagefront
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXTheatrestagefront.TIFF
+d 1.000000
+newmtl STX03Theatrestagebd
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXTheatrestagebd.TIFF
+d 1.000000
+newmtl Theatreceiling
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXTheatreceiling.TIFF
+d 1.000000
+newmtl Theatrecurtain
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXTheatrecurtain.TIFF
+d 1.000000
+newmtl STX04Theatreseats
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXTheatreseats.TIFF
+d 1.000000
+newmtl STX02Theatreredcarpet
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXTheatreredcarpet.TIFF
+d 1.000000
+newmtl STX02Theatrestage
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXTheatrestage.TIFF
+d 1.000000
+newmtl Theatreticketbox
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXTheatreticketbox.TIFF
+d 1.000000
+newmtl Theatreroad
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXTheatreroad.TIFF
+d 1.000000
+newmtl STX05Theatretheatre
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXTheatretheatre.TIFF
+d 1.000000
+newmtl Theatretop
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXTheatretop.TIFF
+d 1.000000
+newmtl Theatreside
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXTheatreside.TIFF
+d 1.000000
+newmtl Theatrebuilding02
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXTheatrebuilding02.TIFF
+d 1.000000
+newmtl Theatrebuilding01
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXTheatrebuilding01.TIFF
+d 1.000000

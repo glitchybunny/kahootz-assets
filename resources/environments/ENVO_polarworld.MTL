@@ -1,0 +1,52 @@
+newmtl polarworldcollisionBox
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+d 0.000000
+newmtl DefaultMaterial0
+Ka 0 0 0
+Ks 0 0 0
+Ns 28.799999
+d 1.000000
+newmtl STX01polarworldicemountain
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXpolarworldicemountain.TIFF
+d 1.000000
+newmtl STX04polarworldwhitemountain
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXpolarworldwhitemountain.TIFF
+d 1.000000
+newmtl STX04polarworldicecave
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXpolarworldicecave.TIFF
+d 1.000000
+newmtl STX03polarworldice
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXpolarworldice.TIFF
+d 1.000000
+newmtl STX02polarworldunderwater
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXpolarworldunderwaterA.TIFF
+d 1.000000
+newmtl STX02polarworldwateredges
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXpolarworldwateredges.TIFF
+d 1.000000
+newmtl STX02polarworldwaterA
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXpolarworldwaterA.TIFF
+d 1.000000

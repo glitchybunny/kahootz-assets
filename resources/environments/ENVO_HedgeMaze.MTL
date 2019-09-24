@@ -1,0 +1,17 @@
+newmtl 07Default
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+d 0.000000
+newmtl STX03HedgeMazeHedgeSide
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXHedgeMazeHedgeSide.TIFF
+d 1.000000
+newmtl STX02HedgeMazeGrass
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXHedgeMazeGrass.TIFF
+d 1.000000

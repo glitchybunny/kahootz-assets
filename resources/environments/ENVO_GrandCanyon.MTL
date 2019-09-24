@@ -1,0 +1,34 @@
+newmtl GrandCanyonCollisionBox
+Ks 0 0 0
+Ns 51.200001
+d 0.000000
+newmtl STX03GrandCanyonsides
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXGrandCanyonsides.TIFF
+d 1.000000
+newmtl STX01GrandCanyonriver
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXGrandCanyonriverA.TIFF
+d 1.000000
+newmtl STX02GrandCanyonLand1
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXGrandCanyonland.TIFF
+d 1.000000
+newmtl STX02GrandCanyonLand2
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXGrandCanyonland.TIFF
+d 1.000000
+newmtl STX02GrandCanyonLand4
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXGrandCanyonland.TIFF
+d 1.000000
+newmtl STX02GrandCanyonOuterCanyon3
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXGrandCanyonOuterCanyon.TIFF
+d 1.000000

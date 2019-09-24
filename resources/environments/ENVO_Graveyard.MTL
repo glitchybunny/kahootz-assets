@@ -1,0 +1,144 @@
+newmtl GraveyardCollisionBox
+Ks 0 0 0
+Ns 51.200001
+d 0.000000
+newmtl GraveyardpathOuter2
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXGraveyardpath.TIFF
+d 1.000000
+newmtl GraveyardpathOuter
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXGraveyardpath.TIFF
+d 1.000000
+newmtl STX02GraveyardgroundDistant2
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXGraveyardground.TIFF
+d 1.000000
+newmtl STX02GraveyardgroundDistant
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXGraveyardground.TIFF
+d 1.000000
+newmtl STX03GraveyardstonefenceTop
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXGraveyardstone.TIFF
+d 1.000000
+newmtl GraveyardStoneShadedfence
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXGraveyardstoneShaded.TIFF
+d 1.000000
+newmtl GraveyardStoneShadedfenceGate
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXGraveyardstoneShaded.TIFF
+d 1.000000
+newmtl GraveyardStoneShadedfenceEnd
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXGraveyardstoneShaded.TIFF
+d 1.000000
+newmtl STX02GraveyardgroundOuter
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXGraveyardground.TIFF
+d 1.000000
+newmtl STX02GraveyardgroundOuter2
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXGraveyardground.TIFF
+d 1.000000
+newmtl STX02Graveyardground2
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXGraveyardground.TIFF
+d 1.000000
+newmtl STX02Graveyardground1
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXGraveyardground.TIFF
+d 1.000000
+newmtl GraveyardhouseroofEnd
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXGraveyardstoneLight.TIFF
+d 1.000000
+newmtl GraveyardStoneShadedhouseDoorway
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXGraveyardstoneShaded.TIFF
+d 1.000000
+newmtl GraveyardhouseDoor
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXGraveyarddoor.TIFF
+d 1.000000
+newmtl STX03GraveyardstonehouseRoof
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXGraveyardstone.TIFF
+d 1.000000
+newmtl STX01Graveyardbrickshouse
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXGraveyardbricks.TIFF
+d 1.000000
+newmtl GraveyardhousePillar
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXGraveyardpillar.TIFF
+d 1.000000
+newmtl GraveyardhousePillarTop
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXGraveyardpillarTop.TIFF
+d 1.000000
+newmtl GraveyardhousePillarTop2
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXGraveyardpillarTop.TIFF
+d 1.000000
+newmtl GraveyardStoneShadedhouseArch
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXGraveyardstoneShaded.TIFF
+d 1.000000
+newmtl GraveyardhousePillarHighlight
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXGraveyardstoneLight.TIFF
+d 1.000000
+newmtl GraveyardStoneShadedhouseBottom
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXGraveyardstoneShaded.TIFF
+d 1.000000
+newmtl STX03GraveyardstonestepsSide
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXGraveyardstone.TIFF
+d 1.000000
+newmtl Graveyardsteps
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXGraveyardsteps.TIFF
+d 1.000000
+newmtl STX04Graveyardtombestone01
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXGraveyardtombStone01.TIFF
+d 1.000000
+newmtl STX03GraveyardstoneLight
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXGraveyardstone.TIFF
+d 1.000000
+newmtl STX04Graveyardtombestone012
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXGraveyardtombStone01.TIFF
+d 1.000000

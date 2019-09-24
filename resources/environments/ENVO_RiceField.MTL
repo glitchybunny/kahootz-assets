@@ -1,0 +1,41 @@
+newmtl 08Default
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+d 0.000000
+newmtl STX01RiceFieldborder
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXRiceFieldBorder.TIFF
+d 1.000000
+newmtl RiceFieldMud
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXRiceFieldMud.TIFF
+d 1.000000
+newmtl STX03RiceFielddry
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXRiceFielddry.TIFF
+d 1.000000
+newmtl STX02RiceFieldwater
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXRiceFieldWaterA.TIFF
+d 1.000000
+newmtl STX04RiceFieldGreen
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXRiceFieldGreen.TIFF
+d 1.000000
+newmtl RiceFieldmountain
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXRiceFieldmountain.TIFF
+d 1.000000

@@ -1,0 +1,24 @@
+newmtl DesertIslandCollisionBox
+Ks 0 0 0
+Ns 51.200001
+d 0.000000
+newmtl STX01DesertIslandbeach
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXDesertIslandbeachA.TIFF
+d 1.000000
+newmtl STX03DesertIslandland
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXDesertIslandland.TIFF
+d 1.000000
+newmtl STX02DesertIslandocean
+Ks 0 0 0
+Ns 128.000000
+map_Kd TEXDesertIslandoceanA.TIFF
+d 1.000000
+newmtl STX02DesertIslandoceanopen
+Ks 0 0 0
+Ns 128.000000
+map_Kd TEXDesertIslandoceanA.TIFF
+d 1.000000

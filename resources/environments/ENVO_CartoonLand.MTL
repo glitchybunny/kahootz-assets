@@ -1,0 +1,39 @@
+newmtl 13Default
+Ka 0 0 0
+Ks 0 0 0
+Ns 12.799999
+d 0.000000
+newmtl STX02CartoonLandGrass
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXCartoonLandGrass.TIFF
+d 1.000000
+newmtl STX03CartoonLandRoad
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXCartoonLandRoad.TIFF
+d 1.000000
+newmtl STX04CartoonLandBuilding
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXCartoonLandBuilding.TIFF
+d 1.000000
+newmtl CartoonLandBuilding
+Ka 0 0 0
+Ks 0 0 0
+Ns 12.799999
+d 1.000000
+newmtl CartoonLandRoof
+Ka 0 0 0
+Ks 0 0 0
+Ns 12.799999
+d 1.000000
+newmtl STX05CartoonLandSun
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXCartoonLandSun.TIFF
+d 1.000000

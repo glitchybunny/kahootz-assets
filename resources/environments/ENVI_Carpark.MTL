@@ -1,0 +1,43 @@
+newmtl CarParkCollisionBox
+Ks 0 0 0
+Ns 51.200001
+d 0.000000
+newmtl CarParkFluroLightscaps
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl STX04CarParklightFluro
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXCarParklight.TIFF
+d 1.000000
+newmtl CarParkstreet
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXCarParkstreet.TIFF
+d 1.000000
+newmtl STX05CarParkwallside
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXCarParkwalldirty.TIFF
+d 1.000000
+newmtl STX02CarParkfloor
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXCarParkfloordirty.TIFF
+d 1.000000
+newmtl STX03CarParkceiling
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXCarParkceilingdirty.TIFF
+d 1.000000
+newmtl STX01CarParkpoleDarkSide
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXCarParkpoledirty.TIFF
+d 1.000000
+newmtl STX01CarParkpolelightSide
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXCarParkpoledirty.TIFF
+d 1.000000

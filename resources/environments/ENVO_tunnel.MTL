@@ -1,0 +1,46 @@
+newmtl tunnelcollisionBox
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+d 0.000000
+newmtl STX02tunnelmetalrivets
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXtunnelmetalrivets.TIFF
+d 1.000000
+newmtl tunneldirt
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXtunneldirt.TIFF
+d 1.000000
+newmtl STX01tunnelmetalrust
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXtunnelmetalrust.TIFF
+d 1.000000
+newmtl STX03tunnelfloor
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXtunnelfloor.TIFF
+d 1.000000
+newmtl tunnelrust
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXtunnelrust.TIFF
+d 1.000000
+newmtl DefaultMaterial0
+Ka 0 0 0
+Ks 0 0 0
+Ns 28.799999
+d 1.000000
+newmtl STX04tunnelfans
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXtunnelfans.TIFF
+d 1.000000

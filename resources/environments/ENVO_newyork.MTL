@@ -1,0 +1,65 @@
+newmtl newyorkcollisionBox
+Ka 0 0 0
+Ks 0 0 0
+Ns 12.799999
+d 0.000000
+newmtl newyorkhighrise02
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXnewyorkhighrise02.TIFF
+d 1.000000
+newmtl newyorkconcrete
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXnewyorkconcrete.TIFF
+d 1.000000
+newmtl newyorkhighrise01
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXnewyorkhighrise01.TIFF
+d 1.000000
+newmtl newyorkhighrise05
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXnewyorkhighrise05.TIFF
+d 1.000000
+newmtl newyorkhighrise03
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXnewyorkhighrise03.TIFF
+d 1.000000
+newmtl newyorkhighrise04
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXnewyorkhighrise04.TIFF
+d 1.000000
+newmtl STX04newyorkresi01
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXnewyorkresi01.TIFF
+d 1.000000
+newmtl STX01newyorkroad
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXnewyorkroad.TIFF
+d 1.000000
+newmtl STX02newyorkfootpath
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXnewyorkfootpath.TIFF
+d 1.000000
+newmtl STX03newyorkgrass
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXnewyorkgrass.TIFF
+d 1.000000

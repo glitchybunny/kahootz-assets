@@ -1,0 +1,129 @@
+newmtl ClassroomCollisionBox
+Ks 0 0 0
+Ns 51.200001
+d 0.000000
+newmtl null
+Ka 1 1 1
+Ks 0 0 0
+Ns 0.000000
+d 0.000000
+newmtl STX01ClassroomTexture01backwall
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXClassroomtexture01.TIFF
+d 1.000000
+newmtl STX01ClassroomTexture01frontwallShadow
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXClassroomtexture01.TIFF
+d 1.000000
+newmtl ClassroomwindowFrame
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl ClassroomwindowFrameInside
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl STX05ClassroomTexture02sidewall
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXClassroomtexture02.TIFF
+d 1.000000
+newmtl STX01ClassroomTexture01frontwallTop
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXClassroomtexture01.TIFF
+d 1.000000
+newmtl STX01ClassroomTexture01frontwallBottom
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXClassroomtexture01.TIFF
+d 1.000000
+newmtl STX02Classroomblackboard
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXClassroomBlackboard.TIFF
+d 1.000000
+newmtl ClassroomblackboardSides
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl ClassroomblackboardLedgeFront
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl STX03Classroomfloor
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXClassroomfloor.TIFF
+d 1.000000
+newmtl STX05ClassroomTexture02sidewallShadow
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXClassroomtexture02.TIFF
+d 1.000000
+newmtl STX04Classroomroof
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXClassroomroof.TIFF
+d 1.000000
+newmtl ClassroomlightBulbs
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl Classroomlights
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl ClassroomfloorRunnerTop
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl ClassroomfloorRunner
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl classroomhallwayFloor
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXClassroomHallwayFloor.TIFF
+d 1.000000
+newmtl classroomhallway
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl classroomhallwayShade
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl classroomroof
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl Classroomwindows
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXClassroomwindow.TIFF
+d 1.000000
+newmtl ClassroomlockerShade
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl ClassroomlockerBlock1
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXClassroomlocker.TIFF
+d 1.000000
+newmtl ClassroomlockerHighlight
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl Classroomlockers
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl ClassroomlockerLegs
+Ks 0 0 0
+Ns 51.200001
+d 1.000000

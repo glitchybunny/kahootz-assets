@@ -1,0 +1,52 @@
+newmtl SewerageTunnelCollisionBox
+Ks 0 0 0
+Ns 51.200001
+d 0.000000
+newmtl STX03SewerageTunnelwall01BoxWalldark
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXSewerageTunnelwall01.TIFF
+d 1.000000
+newmtl STX01SewerageTunnelsludge
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXSewerageTunnelsludgeA.TIFF
+d 1.000000
+newmtl STX03SewerageTunnelwall01BoxWalllight
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXSewerageTunnelwall01.TIFF
+d 1.000000
+newmtl STX04SewerageTunnelPipeWall
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXSewerageTunnelPipeWall.TIFF
+d 1.000000
+newmtl STX02SewerageTunnelwall02BoxRoof
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXSewerageTunnelwall02.TIFF
+d 1.000000
+newmtl STX02SewerageTunnelWall02SewerageTunnelGrillSides
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXSewerageTunnelwall02.TIFF
+d 1.000000
+newmtl SewerageTunnelColour01wall01Grill
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl STX05SewerageTunnelPipeEnd
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXSewerageTunnelPipeEnd.TIFF
+d 1.000000
+newmtl SewerageTunnelSky
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXSewerageTunnelSky.TIFF
+d 1.000000
+newmtl SewerageTunnelColour01Ladder
+Ks 0 0 0
+Ns 51.200001
+d 1.000000

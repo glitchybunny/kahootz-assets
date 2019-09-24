@@ -1,0 +1,23 @@
+newmtl Lake01CollisionBox
+Ks 0 0 0
+Ns 51.200001
+d 0.000000
+newmtl STX04Lake01mountains
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXLake01mountains.TIFF
+d 1.000000
+newmtl STX02Lake01land
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXLake01land.TIFF
+d 1.000000
+newmtl STX03Lake01water
+Ns 128.000000
+map_Kd TEXLake01waterA.TIFF
+d 1.000000
+newmtl STX01Lake01beach
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXLake01beach.TIFF
+d 1.000000

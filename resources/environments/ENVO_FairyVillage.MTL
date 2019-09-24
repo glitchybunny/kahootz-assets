@@ -1,0 +1,34 @@
+newmtl FairyVillageCollisionBox
+Ks 0 0 0
+Ns 51.200001
+d 0.000000
+newmtl STX04FairyVillageOuterScrub
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXFairyVillageLeaves.TIFF
+d 1.000000
+newmtl STX03FairyVillageTrack
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXFairyVillageTrack.TIFF
+d 1.000000
+newmtl STX02FairyVillageWalls
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXFairyVillageWalls.TIFF
+d 1.000000
+newmtl FairyVillageRoof
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXFairyVillageRoofs.TIFF
+d 1.000000
+newmtl FairyVillageTreeBark
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXFairyVillageTreeBark.TIFF
+d 1.000000
+newmtl STX01FairyVillageGround
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXFairyVillageGrass.TIFF
+d 1.000000

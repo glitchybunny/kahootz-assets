@@ -1,0 +1,77 @@
+newmtl LoungeCollisionBox
+Ks 0 0 0
+Ns 51.200001
+d 0.000000
+newmtl STX05LoungeColour01Roof
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXLoungeColour01.TIFF
+d 1.000000
+newmtl LoungeArchDark
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl STX04LoungeTexture02WallRunner02
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXLoungeTexture02.TIFF
+d 1.000000
+newmtl STX03LoungeTexture01Wall01
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXLoungeTexture01.TIFF
+d 1.000000
+newmtl STX03LoungeTexture01Wall02
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXLoungeTexture01.TIFF
+d 1.000000
+newmtl Loungewindow
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXLoungewindow.TIFF
+d 1.000000
+newmtl STX04LoungeTexture02Window01Frame
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXLoungeTexture02.TIFF
+d 1.000000
+newmtl LoungeWindow01edges
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl LoungeWindow01edgesLight
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl LoungehallwayRoof
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl STX02Loungecarpet
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXLoungecarpet.TIFF
+d 1.000000
+newmtl STX01Loungefloorboards
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXLoungefloorboards.TIFF
+d 1.000000
+newmtl Loungehallway
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl LoungehallwayWall2
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl STX04LoungeTexture02WallRunner01
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXLoungeTexture02.TIFF
+d 1.000000
+newmtl LoungehallwayRunner
+Ks 0 0 0
+Ns 51.200001
+d 1.000000

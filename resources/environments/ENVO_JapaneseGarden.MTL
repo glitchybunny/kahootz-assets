@@ -1,0 +1,70 @@
+newmtl JapaneseGardencollisionBox
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+d 0.000000
+newmtl JapaneseGardenHedges
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXJapaneseGardenHedges.TIFF
+d 1.000000
+newmtl STX04JapaneseGardenSand
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXJapaneseGardenSand.TIFF
+d 1.000000
+newmtl STX01JapaneseGardenGrass
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXJapaneseGardenGrass.TIFF
+d 1.000000
+newmtl JapaneseGardenStone
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXJapaneseGardenStone.TIFF
+d 1.000000
+newmtl JapaneseGardenDirt
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXJapaneseGardenDirt.TIFF
+d 1.000000
+newmtl JapaneseGardenWaterSand
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXJapaneseGardenWaterSand.TIFF
+d 1.000000
+newmtl JapaneseGardenWaterDirt
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXJapaneseGardenWaterDirt.TIFF
+d 1.000000
+newmtl STX03JapaneseGardenWaterA
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXJapaneseGardenWaterA.TIFF
+d 1.000000
+newmtl JapaneseGardenWood
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXJapaneseGardenWood.TIFF
+d 1.000000
+newmtl STX02JapaneseGardenConcreteWall
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXJapaneseGardenConcreteWall.TIFF
+d 1.000000
+newmtl JapaneseGardenGreyPaint
+Ka 0 0 0
+Ks 0 0 0
+Ns 12.799999
+d 1.000000

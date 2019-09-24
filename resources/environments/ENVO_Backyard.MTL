@@ -1,0 +1,100 @@
+newmtl BackyardcollisionBox
+Ks 0 0 0
+Ns 51.200001
+d 0.000000
+newmtl STX03BackyardColour01grass
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXBackyardColour01.TIFF
+d 1.000000
+newmtl STX01Backyardtexture01house
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXBackyardtexture01.TIFF
+d 1.000000
+newmtl Backyardfence
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXBackyardfence.TIFF
+d 1.000000
+newmtl BackyardfenceShadow
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl Backyarddecking
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXplanks.TIFF
+d 1.000000
+newmtl BackyardplanksShade
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl BackyardwindowFrame
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl Backyardwindow
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl BackyardwindowShadow
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl STX01Backyardtexture01houseShadow
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXBackyardtexture01.TIFF
+d 1.000000
+newmtl STX04BackyardColour02roof
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXBackyardColour02.TIFF
+d 1.000000
+newmtl BackyardroofDetail
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl BackyardroofGutter
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl BackyardhouseBottom
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXBackyardhouseBoards.TIFF
+d 1.000000
+newmtl Backyarddoor01detail
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl Backyarddoor01
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl Backyarddoor01dark
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl Backyarddoor01handelBase
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl Backyarddoor01handel
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl Backyarddoor01frame
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl STX02Backyardpaving
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXBackyardpaving.TIFF
+d 1.000000
+newmtl BackyardpicketFence
+Ks 0 0 0
+Ns 51.200001
+d 1.000000

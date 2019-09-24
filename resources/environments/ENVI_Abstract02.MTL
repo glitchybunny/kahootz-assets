@@ -1,0 +1,44 @@
+newmtl Abstract02CollisionBox
+Ks 0 0 0
+Ns 51.200001
+d 0.000000
+newmtl null
+Ka 1 1 1
+Ks 0 0 0
+Ns 0.000000
+d 0.000000
+newmtl STX04Abstract02Strips02
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXAbstract02Strips02.TIFF
+d 0.900000
+newmtl STX03Abstract02Strips01
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXAbstract02Strips01.TIFF
+d 0.900000
+newmtl STX05Abstract02Strips03
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXAbstract02Strips03.TIFF
+d 0.900000
+newmtl STX02Abstract02RunningStripsZ
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXAbstract02RunningStrips.TIFF
+d 0.750000
+newmtl STX02Abstract02RunningStripsX
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXAbstract02RunningStrips.TIFF
+d 0.750000
+newmtl STX02Abstract02RunningStripsY
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXAbstract02RunningStrips.TIFF
+d 0.750000
+newmtl STX01Abstract02Blocks
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXAbstract02Blocks.TIFF
+d 1.000000

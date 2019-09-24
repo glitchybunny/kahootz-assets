@@ -1,0 +1,53 @@
+newmtl GlacierCollisionBox
+Ks 0 0 0
+Ns 51.200001
+d 0.000000
+newmtl STX04Glacierwater
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXGlacierwatericyA.TIFF
+d 1.000000
+newmtl STX02GlacierMountainRange
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXGlacierMountainRange.TIFF
+d 1.000000
+newmtl STX03GlacierMountMap01
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXGlacierMountMap.TIFF
+d 1.000000
+newmtl STX03GlacierMountMap02
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXGlacierMountMap.TIFF
+d 1.000000
+newmtl STX03GlacierMountMap04
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXGlacierMountMap.TIFF
+d 1.000000
+newmtl STX03GlacierMountMap03
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXGlacierMountMap.TIFF
+d 1.000000
+newmtl STX03GlacierMountMap05
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXGlacierMountMap.TIFF
+d 1.000000
+newmtl STX03GlacierMountMap06
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXGlacierMountMap.TIFF
+d 1.000000
+newmtl STX01GlacierIce
+Ns 128.000000
+map_Kd TEXGlacierice.TIFF
+d 1.000000
+newmtl STX02GlacierMountainRangeouter
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXGlacierMountainRange.TIFF
+d 1.000000

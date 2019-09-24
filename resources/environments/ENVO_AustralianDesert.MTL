@@ -1,0 +1,24 @@
+newmtl AustralianDesertCollisionBox
+Ks 0 0 0
+Ns 51.200001
+d 0.000000
+newmtl STX03AustralianDesertUluru
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXAustralianDesertUluru.TIFF
+d 1.000000
+newmtl STX02AustralianDesertrockFootHills
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXAustralianDesertRockFootHills.TIFF
+d 1.000000
+newmtl STX01AustralianDesertGround
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXAustralianDesertGround.TIFF
+d 1.000000
+newmtl STX02AustralianDesertrockFootHillsOuterGround
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXAustralianDesertRockFootHills.TIFF
+d 1.000000

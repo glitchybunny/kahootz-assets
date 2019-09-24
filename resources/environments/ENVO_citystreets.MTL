@@ -1,0 +1,117 @@
+newmtl citystreetscollisionBox
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+d 0.000000
+newmtl citystreetsbuilding02
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXcitystreetsbuilding02.TIFF
+d 1.000000
+newmtl citystreetsbuilding06
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXcitystreetsbuilding06.TIFF
+d 1.000000
+newmtl STX04citystreetsawning
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXcitystreetsawning.TIFF
+d 1.000000
+newmtl STX01citystreetsroad
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXcitystreetsroad.TIFF
+d 1.000000
+newmtl Material37
+Ka 0 0 0
+Ks 0 0 0
+Ns 12.800000
+d 1.000000
+newmtl Material38
+Ka 0 0 0
+Ks 0 0 0
+Ns 12.800000
+d 1.000000
+newmtl Material39
+Ka 0 0 0
+Ks 0 0 0
+Ns 12.800000
+d 1.000000
+newmtl Material40
+Ka 0 0 0
+Ks 0 0 0
+Ns 12.800000
+d 1.000000
+newmtl Material41
+Ka 0 0 0
+Ks 0 0 0
+Ns 12.800000
+d 1.000000
+newmtl Material42
+Ka 0 0 0
+Ks 0 0 0
+Ns 12.800000
+d 1.000000
+newmtl STX02citystreetsconcrete
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXcitystreetsconcrete.TIFF
+d 1.000000
+newmtl citystreetsbeigepaint
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXcitystreetsbeigepaint.TIFF
+d 1.000000
+newmtl STX04citystreetsawningred
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXcitystreetsawningred.TIFF
+d 1.000000
+newmtl citystreetsbuilding03
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXcitystreetsbuilding03.TIFF
+d 1.000000
+newmtl citystreetsbuilding04
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXcitystreetsbuilding04.TIFF
+d 1.000000
+newmtl citystreetsbuilding05
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXcitystreetsbuilding05.TIFF
+d 1.000000
+newmtl Material25
+Ka 0 0 0
+Ks 0 0 0
+Ns 12.800000
+d 1.000000
+newmtl Material26
+Ka 0 0 0
+Ks 0 0 0
+Ns 12.800000
+d 1.000000
+newmtl citystreetsbuilding01
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXcitystreetsbuilding01.TIFF
+d 1.000000
+newmtl STX03citystreetswalls
+Ka 1 1 1
+Ks 0 0 0
+Ns 12.799999
+map_Kd TEXcitystreetswalls.TIFF
+d 1.000000

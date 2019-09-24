@@ -1,0 +1,39 @@
+newmtl VolcanoafterCollisionBox
+Ks 0 0 0
+Ns 51.200001
+d 0.000000
+newmtl VolcanoafterBase
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXVOLCANOafterbase.TIFF
+d 1.000000
+newmtl Volcanoaftercone
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXVOLCANOaftercone.TIFF
+d 1.000000
+newmtl STX04VolcanoafterFarmOuter1
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXVOLCANOafterFarmOuter.TIFF
+d 1.000000
+newmtl STX04VolcanoafterFarmOuter2
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXVOLCANOafterFarmOuter.TIFF
+d 1.000000
+newmtl STX03VolcanoafterFarmLand2
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXVOLCANOafterFarmLand2.TIFF
+d 1.000000
+newmtl STX02VolcanoafterFarmLand1
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXVOLCANOafterFarmLand1.TIFF
+d 1.000000
+newmtl STX01VolcanoaftermountainMap
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXVOLCANOaftermountainMapA.TIFF
+d 1.000000
