@@ -5,12 +5,12 @@ d 0.000000
 newmtl STX04FactorywallsDark
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXFactorywall.TIFF
+map_Kd TEXFactorywall.png
 d 1.000000
 newmtl STX04FactorywallsLight
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXFactorywall.TIFF
+map_Kd TEXFactorywall.png
 d 1.000000
 newmtl FactoryWindowFrames
 Ks 0 0 0
@@ -18,7 +18,7 @@ Ns 51.200001
 d 1.000000
 newmtl STX03FactoryWindowsUpper
 Ns 51.200001
-map_Kd TEXFactorywindow.TIFF
+map_Kd TEXFactorywindow.png
 d 1.000000
 newmtl FactoryUpperWindowFrames
 Ks 0 0 0
@@ -31,16 +31,16 @@ d 1.000000
 newmtl STX01FactoryDoor
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXFactorydoor.TIFF
+map_Kd TEXFactorydoor.png
 d 1.000000
 newmtl STX03FactoryWindowsLower
 Ns 51.200001
-map_Kd TEXFactorywindow.TIFF
+map_Kd TEXFactorywindow.png
 d 1.000000
 newmtl FactoryLampLight
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXFactorylight.TIFF
+map_Kd TEXFactorylight.png
 d 1.000000
 newmtl FactoryLamplead
 Ks 0 0 0
@@ -52,15 +52,15 @@ d 1.000000
 newmtl STX02FactoryFloor
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXFactoryfloor.TIFF
+map_Kd TEXFactoryfloor.png
 d 1.000000
 newmtl STX05Factoryroof1
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXFactoryRoof.TIFF
+map_Kd TEXFactoryRoof.png
 d 1.000000
 newmtl STX05Factoryroof2
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXFactoryRoof.TIFF
+map_Kd TEXFactoryRoof.png
 d 1.000000

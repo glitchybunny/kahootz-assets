@@ -5,19 +5,19 @@ d 0.000000
 newmtl STX02IcyLakemountains
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXIcyLakemountains.TIFF
+map_Kd TEXIcyLakemountains.png
 d 1.000000
 newmtl STX01IcyLakehills
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXIcyLakehills.TIFF
+map_Kd TEXIcyLakehills.png
 d 1.000000
 newmtl STX03IcyLakeice
 Ns 128.000000
-map_Kd TEXIcyLakeice.TIFF
+map_Kd TEXIcyLakeice.png
 d 1.000000
 newmtl STX04IcyLakebeach
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXIcyLakebeach.TIFF
+map_Kd TEXIcyLakebeach.png
 d 1.000000

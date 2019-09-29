@@ -7,59 +7,59 @@ newmtl STX02uwriverdirt
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXuwriverdirt.TIFF
+map_Kd TEXuwriverdirt.png
 d 1.000000
 newmtl STX03uwriverrocksA
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXuwriverrocksA.TIFF
+map_Kd TEXuwriverrocksA.png
 d 1.000000
 newmtl uwriversanddark
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXuwriversanddark.TIFF
+map_Kd TEXuwriversanddark.png
 d 1.000000
 newmtl uwriversand
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXuwriversand.TIFF
+map_Kd TEXuwriversand.png
 d 1.000000
 newmtl STX04uwrivergrass
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXuwrivergrass.TIFF
+map_Kd TEXuwrivergrass.png
 d 1.000000
 newmtl uwrivertwigs
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXuwrivertwigs.TIFF
+map_Kd TEXuwrivertwigs.png
 d 1.000000
 newmtl STX03uwriverdirtwaterA
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXuwriverdirtwaterA.TIFF
+map_Kd TEXuwriverdirtwaterA.png
 d 1.000000
 newmtl uwriverlog
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXuwriverlog.TIFF
+map_Kd TEXuwriverlog.png
 d 1.000000
 newmtl STX01uwriverwaterA
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXuwriverwaterA.TIFF
+map_Kd TEXuwriverwaterA.png
 d 1.000000
 newmtl uwriverboulders
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXuwriverboulders.TIFF
+map_Kd TEXuwriverboulders.png
 d 1.000000

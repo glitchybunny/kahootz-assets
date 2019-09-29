@@ -13,7 +13,7 @@ d 1.000000
 newmtl STX04BathroomTexture1Window01edgesLight
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXBathroomTexture1.TIFF
+map_Kd TEXBathroomTexture1.png
 d 1.000000
 newmtl hallwayFloor
 Ks 0 0 0
@@ -22,7 +22,7 @@ d 1.000000
 newmtl STX02Bathroomfloor
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXbathroomfloorTile.TIFF
+map_Kd TEXbathroomfloorTile.png
 d 1.000000
 newmtl BathroomDoorFrame
 Ks 0 0 0
@@ -55,40 +55,40 @@ d 1.000000
 newmtl STX01BathroomWallTiles01
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXBathroomwallTile.TIFF
+map_Kd TEXBathroomwallTile.png
 d 1.000000
 newmtl STX01BathroomWallTiles02
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXBathroomwallTile.TIFF
+map_Kd TEXBathroomwallTile.png
 d 1.000000
 newmtl STX03BathroomfeatureTile2
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXBathroomfeatureTile.TIFF
+map_Kd TEXBathroomfeatureTile.png
 d 1.000000
 newmtl STX04BathroomTexture1Wall02
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXBathroomTexture1.TIFF
+map_Kd TEXBathroomTexture1.png
 d 1.000000
 newmtl STX03BathroomfeatureTile1
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXBathroomfeatureTile.TIFF
+map_Kd TEXBathroomfeatureTile.png
 d 1.000000
 newmtl STX04BathroomTexture1Wall01
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXBathroomTexture1.TIFF
+map_Kd TEXBathroomTexture1.png
 d 1.000000
 newmtl Bathroomglasswindow04
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXbathroomglass.TIFF
+map_Kd TEXbathroomglass.png
 d 1.000000
 newmtl STX05BathroomColour01roof
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXBathroomColour01.TIFF
+map_Kd TEXBathroomColour01.png
 d 1.000000

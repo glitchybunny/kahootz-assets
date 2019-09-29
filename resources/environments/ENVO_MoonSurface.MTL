@@ -5,30 +5,30 @@ d 0.000000
 newmtl STX04MoonSurfaceEdges02
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXMoonSurfaceEdges02.TIFF
+map_Kd TEXMoonSurfaceEdges02.png
 d 1.000000
 newmtl STX03MoonSurfaceEdges01
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXMoonSurfaceEdges01.TIFF
+map_Kd TEXMoonSurfaceEdges01.png
 d 1.000000
 newmtl STX02MoonSurfaceMap01InnerCraters01inside
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXMoonSurfaceMap01.TIFF
+map_Kd TEXMoonSurfaceMap01.png
 d 1.000000
 newmtl STX01MoonSurfaceMap02InnerGround
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXMoonSurfaceMap02.TIFF
+map_Kd TEXMoonSurfaceMap02.png
 d 1.000000
 newmtl STX02MoonSurfaceMap01Outer01
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXMoonSurfaceMap01.TIFF
+map_Kd TEXMoonSurfaceMap01.png
 d 1.000000
 newmtl STX02MoonSurfaceMap01Outer02
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXMoonSurfaceMap01.TIFF
+map_Kd TEXMoonSurfaceMap01.png
 d 1.000000

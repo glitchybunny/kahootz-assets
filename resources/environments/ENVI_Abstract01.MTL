@@ -10,25 +10,25 @@ d 0.000000
 newmtl STX01Abstract01Ball01
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXAbstract01Dots.TIFF
+map_Kd TEXAbstract01Dots.png
 d 1.000000
 newmtl STX05Abstract01Red
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXAbstract01Red.TIFF
+map_Kd TEXAbstract01Red.png
 d 1.000000
 newmtl STX02Abstract01Green
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXAbstract01Green.TIFF
+map_Kd TEXAbstract01Green.png
 d 1.000000
 newmtl STX03Abstract01Orange
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXAbstract01Orange.TIFF
+map_Kd TEXAbstract01Orange.png
 d 1.000000
 newmtl STX04Abstract01Pink
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXAbstract01Pink.TIFF
+map_Kd TEXAbstract01Pink.png
 d 1.000000

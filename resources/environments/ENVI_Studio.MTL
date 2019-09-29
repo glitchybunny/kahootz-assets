@@ -5,7 +5,7 @@ d 0.000000
 newmtl StudioSky
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXStudioskyDayCity.TIFF
+map_Kd TEXStudioskyDayCity.png
 d 1.000000
 newmtl StudioouterWall
 Ks 0 0 0
@@ -14,25 +14,25 @@ d 1.000000
 newmtl STX04Studiowallmain
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXStudiowall.TIFF
+map_Kd TEXStudiowall.png
 d 1.000000
 newmtl STX02Studiofloor
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXStudiofloor.TIFF
+map_Kd TEXStudiofloor.png
 d 1.000000
 newmtl STX01Studiocolumnsdark
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXStudiocolumns.TIFF
+map_Kd TEXStudiocolumns.png
 d 1.000000
 newmtl STX01Studiocolumnslight
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXStudiocolumns.TIFF
+map_Kd TEXStudiocolumns.png
 d 1.000000
 newmtl STX03Studioroof
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXStudioroof.TIFF
+map_Kd TEXStudioroof.png
 d 1.000000

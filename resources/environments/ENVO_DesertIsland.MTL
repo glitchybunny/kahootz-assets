@@ -5,20 +5,20 @@ d 0.000000
 newmtl STX01DesertIslandbeach
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXDesertIslandbeachA.TIFF
+map_Kd TEXDesertIslandbeachA.png
 d 1.000000
 newmtl STX03DesertIslandland
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXDesertIslandland.TIFF
+map_Kd TEXDesertIslandland.png
 d 1.000000
 newmtl STX02DesertIslandocean
 Ks 0 0 0
 Ns 128.000000
-map_Kd TEXDesertIslandoceanA.TIFF
+map_Kd TEXDesertIslandoceanA.png
 d 1.000000
 newmtl STX02DesertIslandoceanopen
 Ks 0 0 0
 Ns 128.000000
-map_Kd TEXDesertIslandoceanA.TIFF
+map_Kd TEXDesertIslandoceanA.png
 d 1.000000

@@ -5,30 +5,30 @@ d 0.000000
 newmtl STX01VolcanoBase
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXVOLCANObasebefore.TIFF
+map_Kd TEXVOLCANObasebefore.png
 d 1.000000
 newmtl Volcanocone
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXVOLCANOconebefore.TIFF
+map_Kd TEXVOLCANOconebefore.png
 d 1.000000
 newmtl VolcanoFarmOuter
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXVOLCANOFarmOuterbefore.TIFF
+map_Kd TEXVOLCANOFarmOuterbefore.png
 d 1.000000
 newmtl STX03VolcanoFarmLand2
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXVOLCANOFarmLand2before.TIFF
+map_Kd TEXVOLCANOFarmLand2before.png
 d 1.000000
 newmtl STX02VolcanoFarmLand1
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXVOLCANOFarmLand1before.TIFF
+map_Kd TEXVOLCANOFarmLand1before.png
 d 1.000000
 newmtl STX04VolcanomountainMap
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXVOLCANOmountainMapbefore.TIFF
+map_Kd TEXVOLCANOmountainMapbefore.png
 d 1.000000

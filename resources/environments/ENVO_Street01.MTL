@@ -5,37 +5,37 @@ d 0.000000
 newmtl STX04Street01Colour03road
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXStreet01Colour03.TIFF
+map_Kd TEXStreet01Colour03.png
 d 1.000000
 newmtl Street01crossing
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXStreet01crossing.TIFF
+map_Kd TEXStreet01crossing.png
 d 1.000000
 newmtl Street01crossing2
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXStreet01crossing.TIFF
+map_Kd TEXStreet01crossing.png
 d 1.000000
 newmtl STX02Street01Colour01footpath
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXStreet01Colour01.TIFF
+map_Kd TEXStreet01Colour01.png
 d 1.000000
 newmtl STX03Street01Colour02grass
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXStreet01Colour02.TIFF
+map_Kd TEXStreet01Colour02.png
 d 1.000000
 newmtl STX02Street01Colour01curb
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXStreet01Colour01.TIFF
+map_Kd TEXStreet01Colour01.png
 d 1.000000
 newmtl Street01carpark
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXStreet01carpark.TIFF
+map_Kd TEXStreet01carpark.png
 d 1.000000
 newmtl Street01milkbar
 Ks 0 0 0
@@ -48,7 +48,7 @@ d 1.000000
 newmtl Street01door01door01
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXStreet01door01.TIFF
+map_Kd TEXStreet01door01.png
 d 1.000000
 newmtl Street01milkbarRoof
 Ks 0 0 0
@@ -61,12 +61,12 @@ d 1.000000
 newmtl STX01Street01windowmilkbar
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXStreet01window.TIFF
+map_Kd TEXStreet01window.png
 d 1.000000
 newmtl STX01Street01windowmilkbar2
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXStreet01window.TIFF
+map_Kd TEXStreet01window.png
 d 1.000000
 newmtl Street01milkbarwindowFrame
 Ks 0 0 0
@@ -75,7 +75,7 @@ d 1.000000
 newmtl Street01milkbartiles
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXStreet01milkbartiles.TIFF
+map_Kd TEXStreet01milkbartiles.png
 d 1.000000
 newmtl Street01shop3RoofTop
 Ks 0 0 0
@@ -84,7 +84,7 @@ d 1.000000
 newmtl Street01shop3veranda
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXStreet01shop3veranda.TIFF
+map_Kd TEXStreet01shop3veranda.png
 d 1.000000
 newmtl Street01shop3verandaEnd
 Ks 0 0 0
@@ -93,7 +93,7 @@ d 1.000000
 newmtl STX01Street01windowshop3
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXStreet01window.TIFF
+map_Kd TEXStreet01window.png
 d 1.000000
 newmtl Street01shop3
 Ks 0 0 0
@@ -106,12 +106,12 @@ d 1.000000
 newmtl Street01shop2Roof
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXStreet01shop2roof.TIFF
+map_Kd TEXStreet01shop2roof.png
 d 1.000000
 newmtl STX01Street01windowshop2
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXStreet01window.TIFF
+map_Kd TEXStreet01window.png
 d 1.000000
 newmtl Street01shop2windowFrame
 Ks 0 0 0
@@ -124,12 +124,12 @@ d 1.000000
 newmtl STX01Street01windowshop4
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXStreet01window.TIFF
+map_Kd TEXStreet01window.png
 d 1.000000
 newmtl STX01Street01windowshop4a
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXStreet01window.TIFF
+map_Kd TEXStreet01window.png
 d 1.000000
 newmtl Street01Shop4rooftrim
 Ks 0 0 0
@@ -142,17 +142,17 @@ d 1.000000
 newmtl Street01Shop4veranda
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXStreet01shop4veranda.TIFF
+map_Kd TEXStreet01shop4veranda.png
 d 1.000000
 newmtl STX01Street01windowShop4back
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXStreet01window.TIFF
+map_Kd TEXStreet01window.png
 d 1.000000
 newmtl STX01Street01windowshop4c
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXStreet01window.TIFF
+map_Kd TEXStreet01window.png
 d 1.000000
 newmtl Street01Shop4
 Ks 0 0 0
@@ -161,7 +161,7 @@ d 1.000000
 newmtl STX01Street01windowshop4b
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXStreet01window.TIFF
+map_Kd TEXStreet01window.png
 d 1.000000
 newmtl Street01Shop4windowFrame
 Ks 0 0 0
@@ -186,7 +186,7 @@ d 1.000000
 newmtl STX01Street01windowtownhall
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXStreet01window.TIFF
+map_Kd TEXStreet01window.png
 d 1.000000
 newmtl Street01townhallSteps
 Ks 0 0 0
@@ -203,7 +203,7 @@ d 1.000000
 newmtl Street01townhallclock
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXStreet01townhallclock.TIFF
+map_Kd TEXStreet01townhallclock.png
 d 1.000000
 newmtl Street01supermarketRoofTop
 Ks 0 0 0
@@ -212,7 +212,7 @@ d 1.000000
 newmtl Street01supermarketRoof
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXStreet01supermarketroof.TIFF
+map_Kd TEXStreet01supermarketroof.png
 d 1.000000
 newmtl Street01supermarket
 Ks 0 0 0
@@ -221,12 +221,12 @@ d 1.000000
 newmtl STX01Street01windowsupermarket
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXStreet01window.TIFF
+map_Kd TEXStreet01window.png
 d 1.000000
 newmtl STX01Street01windowsupermarketSide
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXStreet01window.TIFF
+map_Kd TEXStreet01window.png
 d 1.000000
 newmtl Street01supermarketWindowFrame
 Ks 0 0 0
@@ -243,12 +243,12 @@ d 1.000000
 newmtl Street01door01door07
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXStreet01door01.TIFF
+map_Kd TEXStreet01door01.png
 d 1.000000
 newmtl STX01Street01windowshop6
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXStreet01window.TIFF
+map_Kd TEXStreet01window.png
 d 1.000000
 newmtl Street01Shop6RoofTop
 Ks 0 0 0
@@ -261,7 +261,7 @@ d 1.000000
 newmtl Street01shop5Roof
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXStreet01shop5veranda.TIFF
+map_Kd TEXStreet01shop5veranda.png
 d 1.000000
 newmtl Street01shop5veranda
 Ks 0 0 0
@@ -270,7 +270,7 @@ d 1.000000
 newmtl STX01Street01windowshop5
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXStreet01window.TIFF
+map_Kd TEXStreet01window.png
 d 1.000000
 newmtl Street01shop5shadow
 Ks 0 0 0
@@ -283,7 +283,7 @@ d 1.000000
 newmtl Street01door01door03
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXStreet01door01.TIFF
+map_Kd TEXStreet01door01.png
 d 1.000000
 newmtl Street01shop3Back
 Ks 0 0 0
@@ -292,12 +292,12 @@ d 1.000000
 newmtl Street01door04door06
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXStreet01door04.TIFF
+map_Kd TEXStreet01door04.png
 d 1.000000
 newmtl Street01door02door02
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXStreet01door02.TIFF
+map_Kd TEXStreet01door02.png
 d 1.000000
 newmtl Street01shop2
 Ks 0 0 0
@@ -306,12 +306,12 @@ d 1.000000
 newmtl Street01door02door04
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXStreet01door02.TIFF
+map_Kd TEXStreet01door02.png
 d 1.000000
 newmtl Street01door02door05
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXStreet01door02.TIFF
+map_Kd TEXStreet01door02.png
 d 1.000000
 newmtl Street01supermarkettiles
 Ks 0 0 0
@@ -324,12 +324,12 @@ d 1.000000
 newmtl Street01door04door08
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXStreet01door04.TIFF
+map_Kd TEXStreet01door04.png
 d 1.000000
 newmtl Street01townhallDoor
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXStreet01townhallDoor.TIFF
+map_Kd TEXStreet01townhallDoor.png
 d 1.000000
 newmtl Street01milkbarDoor
 Ks 0 0 0

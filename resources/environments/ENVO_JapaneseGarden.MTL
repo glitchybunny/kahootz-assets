@@ -7,61 +7,61 @@ newmtl JapaneseGardenHedges
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXJapaneseGardenHedges.TIFF
+map_Kd TEXJapaneseGardenHedges.png
 d 1.000000
 newmtl STX04JapaneseGardenSand
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXJapaneseGardenSand.TIFF
+map_Kd TEXJapaneseGardenSand.png
 d 1.000000
 newmtl STX01JapaneseGardenGrass
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXJapaneseGardenGrass.TIFF
+map_Kd TEXJapaneseGardenGrass.png
 d 1.000000
 newmtl JapaneseGardenStone
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXJapaneseGardenStone.TIFF
+map_Kd TEXJapaneseGardenStone.png
 d 1.000000
 newmtl JapaneseGardenDirt
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXJapaneseGardenDirt.TIFF
+map_Kd TEXJapaneseGardenDirt.png
 d 1.000000
 newmtl JapaneseGardenWaterSand
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXJapaneseGardenWaterSand.TIFF
+map_Kd TEXJapaneseGardenWaterSand.png
 d 1.000000
 newmtl JapaneseGardenWaterDirt
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXJapaneseGardenWaterDirt.TIFF
+map_Kd TEXJapaneseGardenWaterDirt.png
 d 1.000000
 newmtl STX03JapaneseGardenWaterA
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXJapaneseGardenWaterA.TIFF
+map_Kd TEXJapaneseGardenWaterA.png
 d 1.000000
 newmtl JapaneseGardenWood
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXJapaneseGardenWood.TIFF
+map_Kd TEXJapaneseGardenWood.png
 d 1.000000
 newmtl STX02JapaneseGardenConcreteWall
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXJapaneseGardenConcreteWall.TIFF
+map_Kd TEXJapaneseGardenConcreteWall.png
 d 1.000000
 newmtl JapaneseGardenGreyPaint
 Ka 0 0 0

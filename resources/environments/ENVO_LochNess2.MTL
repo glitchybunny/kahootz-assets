@@ -5,14 +5,14 @@ d 0.000000
 newmtl STX02LochNess2mountains
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXLockNess2mountains02.TIFF
+map_Kd TEXLockNess2mountains02.png
 d 1.000000
 newmtl STX01LochNess2grass
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXLockNess2grass02.TIFF
+map_Kd TEXLockNess2grass02.png
 d 1.000000
 newmtl STX03LochNess2water
 Ns 128.000000
-map_Kd TEXLochNess2waterA.TIFF
+map_Kd TEXLochNess2waterA.png
 d 1.000000

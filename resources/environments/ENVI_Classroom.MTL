@@ -10,12 +10,12 @@ d 0.000000
 newmtl STX01ClassroomTexture01backwall
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXClassroomtexture01.TIFF
+map_Kd TEXClassroomtexture01.png
 d 1.000000
 newmtl STX01ClassroomTexture01frontwallShadow
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXClassroomtexture01.TIFF
+map_Kd TEXClassroomtexture01.png
 d 1.000000
 newmtl ClassroomwindowFrame
 Ks 0 0 0
@@ -28,22 +28,22 @@ d 1.000000
 newmtl STX05ClassroomTexture02sidewall
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXClassroomtexture02.TIFF
+map_Kd TEXClassroomtexture02.png
 d 1.000000
 newmtl STX01ClassroomTexture01frontwallTop
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXClassroomtexture01.TIFF
+map_Kd TEXClassroomtexture01.png
 d 1.000000
 newmtl STX01ClassroomTexture01frontwallBottom
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXClassroomtexture01.TIFF
+map_Kd TEXClassroomtexture01.png
 d 1.000000
 newmtl STX02Classroomblackboard
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXClassroomBlackboard.TIFF
+map_Kd TEXClassroomBlackboard.png
 d 1.000000
 newmtl ClassroomblackboardSides
 Ks 0 0 0
@@ -56,17 +56,17 @@ d 1.000000
 newmtl STX03Classroomfloor
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXClassroomfloor.TIFF
+map_Kd TEXClassroomfloor.png
 d 1.000000
 newmtl STX05ClassroomTexture02sidewallShadow
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXClassroomtexture02.TIFF
+map_Kd TEXClassroomtexture02.png
 d 1.000000
 newmtl STX04Classroomroof
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXClassroomroof.TIFF
+map_Kd TEXClassroomroof.png
 d 1.000000
 newmtl ClassroomlightBulbs
 Ks 0 0 0
@@ -87,7 +87,7 @@ d 1.000000
 newmtl classroomhallwayFloor
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXClassroomHallwayFloor.TIFF
+map_Kd TEXClassroomHallwayFloor.png
 d 1.000000
 newmtl classroomhallway
 Ks 0 0 0
@@ -104,7 +104,7 @@ d 1.000000
 newmtl Classroomwindows
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXClassroomwindow.TIFF
+map_Kd TEXClassroomwindow.png
 d 1.000000
 newmtl ClassroomlockerShade
 Ks 0 0 0
@@ -113,7 +113,7 @@ d 1.000000
 newmtl ClassroomlockerBlock1
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXClassroomlocker.TIFF
+map_Kd TEXClassroomlocker.png
 d 1.000000
 newmtl ClassroomlockerHighlight
 Ks 0 0 0

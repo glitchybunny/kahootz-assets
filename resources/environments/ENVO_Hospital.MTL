@@ -7,7 +7,7 @@ newmtl HospitalWindows
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXHospitalWindows.TIFF
+map_Kd TEXHospitalWindows.png
 d 1.000000
 newmtl Material5
 Ka 0 0 0
@@ -18,7 +18,7 @@ newmtl STX03HospitalRoad
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXHospitalRoad.TIFF
+map_Kd TEXHospitalRoad.png
 d 1.000000
 newmtl HospitalFrames
 Ka 0 0 0
@@ -49,19 +49,19 @@ newmtl HospitalFloorTiles
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXHospitalFloorTiles.TIFF
+map_Kd TEXHospitalFloorTiles.png
 d 1.000000
 newmtl STX04HospitalSign
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXHospitalSign.TIFF
+map_Kd TEXHospitalSign.png
 d 1.000000
 newmtl STX03HospitalAsphalt
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXHospitalAsphalt.TIFF
+map_Kd TEXHospitalAsphalt.png
 d 1.000000
 newmtl HospitalGlass
 Ka 0 0 0
@@ -72,19 +72,19 @@ newmtl STX02HospitalTile
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXHospitalTile.TIFF
+map_Kd TEXHospitalTile.png
 d 1.000000
 newmtl HospitalCarPark
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXHospitalCarPark.TIFF
+map_Kd TEXHospitalCarPark.png
 d 1.000000
 newmtl STX01HospitalGrass
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXHospitalGrass.TIFF
+map_Kd TEXHospitalGrass.png
 d 1.000000
 newmtl DefaultMaterial5
 Ka 0 0 0

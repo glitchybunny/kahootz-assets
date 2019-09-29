@@ -7,11 +7,11 @@ newmtl STX03HedgeMazeHedgeSide
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXHedgeMazeHedgeSide.TIFF
+map_Kd TEXHedgeMazeHedgeSide.png
 d 1.000000
 newmtl STX02HedgeMazeGrass
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXHedgeMazeGrass.TIFF
+map_Kd TEXHedgeMazeGrass.png
 d 1.000000

@@ -10,50 +10,50 @@ d 0.000000
 newmtl STX01AsteroidFieldPlanet
 Ks 0 0 0
 Ns 25.600000
-map_Kd TEXAsteroidFieldPlanet.TIFF
+map_Kd TEXAsteroidFieldPlanet.png
 d 1.000000
 newmtl STX02AsteroidFieldAsteroid01
 Ks 0 0 0
 Ns 64.000000
-map_Kd TEXAsteroidFieldAsteroid01.TIFF
+map_Kd TEXAsteroidFieldAsteroid01.png
 d 1.000000
 newmtl STX03AsteroidFieldAsteroid02
 Ks 0 0 0
 Ns 64.000000
-map_Kd TEXAsteroidFieldAsteroid02.TIFF
+map_Kd TEXAsteroidFieldAsteroid02.png
 d 1.000000
 newmtl STX03AsteroidFieldAsteroid02SmallAsteroids
 Ks 0 0 0
 Ns 64.000000
-map_Kd TEXAsteroidFieldAsteroid02.TIFF
+map_Kd TEXAsteroidFieldAsteroid02.png
 d 1.000000
 newmtl STX04AsteroidFieldAsteroid03Astro01
 Ks 0 0 0
 Ns 64.000000
-map_Kd TEXAsteroidFieldAsteroid03.TIFF
+map_Kd TEXAsteroidFieldAsteroid03.png
 d 1.000000
 newmtl STX04AsteroidFieldAsteroid03Astro02
 Ks 0 0 0
 Ns 64.000000
-map_Kd TEXAsteroidFieldAsteroid03.TIFF
+map_Kd TEXAsteroidFieldAsteroid03.png
 d 1.000000
 newmtl STX04AsteroidFieldAsteroid03Astro03
 Ks 0 0 0
 Ns 64.000000
-map_Kd TEXAsteroidFieldAsteroid03.TIFF
+map_Kd TEXAsteroidFieldAsteroid03.png
 d 1.000000
 newmtl STX04AsteroidFieldAsteroid03Astro04
 Ks 0 0 0
 Ns 64.000000
-map_Kd TEXAsteroidFieldAsteroid03.TIFF
+map_Kd TEXAsteroidFieldAsteroid03.png
 d 1.000000
 newmtl STX04AsteroidFieldAsteroid03Astro05
 Ks 0 0 0
 Ns 64.000000
-map_Kd TEXAsteroidFieldAsteroid03.TIFF
+map_Kd TEXAsteroidFieldAsteroid03.png
 d 1.000000
 newmtl STX04AsteroidFeildAsteroid03Astro06
 Ks 0 0 0
 Ns 64.000000
-map_Kd TEXAsteroidFieldAsteroid03.TIFF
+map_Kd TEXAsteroidFieldAsteroid03.png
 d 1.000000

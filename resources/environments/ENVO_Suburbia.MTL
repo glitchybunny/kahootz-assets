@@ -7,47 +7,47 @@ newmtl STX01suburbiagrass
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXsuburbiagrass.TIFF
+map_Kd TEXsuburbiagrass.png
 d 1.000000
 newmtl STX02suburbiaroad
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXsuburbiaroad.TIFF
+map_Kd TEXsuburbiaroad.png
 d 1.000000
 newmtl STX03suburbiaconcrete
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXsuburbiaconcrete.TIFF
+map_Kd TEXsuburbiaconcrete.png
 d 1.000000
 newmtl suburbiaflag
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXsuburbiaflag.TIFF
+map_Kd TEXsuburbiaflag.png
 d 1.000000
 newmtl suburbiapole
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXsuburbiapole.TIFF
+map_Kd TEXsuburbiapole.png
 d 1.000000
 newmtl suburbiacrossing
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXsuburbiacrossing.TIFF
+map_Kd TEXsuburbiacrossing.png
 d 1.000000
 newmtl suburbiastone
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXsuburbiastone.TIFF
+map_Kd TEXsuburbiastone.png
 d 1.000000
 newmtl STX04suburbiaschoolGround
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXsuburbiaschoolGround.TIFF
+map_Kd TEXsuburbiaschoolGround.png
 d 1.000000

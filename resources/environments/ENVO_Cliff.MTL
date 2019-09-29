@@ -5,34 +5,34 @@ d 0.000000
 newmtl STX04CliffLand2
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXCliffland.TIFF
+map_Kd TEXCliffland.png
 d 1.000000
 newmtl STX04CliffLand1
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXCliffland.TIFF
+map_Kd TEXCliffland.png
 d 1.000000
 newmtl STX01Cliffface
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXCliffface.TIFF
+map_Kd TEXCliffface.png
 d 1.000000
 newmtl STX03Cliffwater
 Ns 128.000000
-map_Kd TEXCliffwaterA.TIFF
+map_Kd TEXCliffwaterA.png
 d 1.000000
 newmtl STX01Clifffaceouter
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXCliffface.TIFF
+map_Kd TEXCliffface.png
 d 1.000000
 newmtl STX04CliffLandouter1
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXCliffland.TIFF
+map_Kd TEXCliffland.png
 d 1.000000
 newmtl STX04CliffLandouter2
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXCliffland.TIFF
+map_Kd TEXCliffland.png
 d 1.000000

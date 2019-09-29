@@ -5,20 +5,20 @@ d 0.000000
 newmtl STX03AustralianDesertUluru
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXAustralianDesertUluru.TIFF
+map_Kd TEXAustralianDesertUluru.png
 d 1.000000
 newmtl STX02AustralianDesertrockFootHills
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXAustralianDesertRockFootHills.TIFF
+map_Kd TEXAustralianDesertRockFootHills.png
 d 1.000000
 newmtl STX01AustralianDesertGround
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXAustralianDesertGround.TIFF
+map_Kd TEXAustralianDesertGround.png
 d 1.000000
 newmtl STX02AustralianDesertrockFootHillsOuterGround
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXAustralianDesertRockFootHills.TIFF
+map_Kd TEXAustralianDesertRockFootHills.png
 d 1.000000

@@ -7,31 +7,31 @@ newmtl 09Default
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXFireStationantenna.TIFF
+map_Kd TEXFireStationantenna.png
 d 1.000000
 newmtl STX02FireStationGrass
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXFireStationgrass.TIFF
+map_Kd TEXFireStationgrass.png
 d 1.000000
 newmtl STX04FireStationDriveway
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXFireStationconcrete.TIFF
+map_Kd TEXFireStationconcrete.png
 d 1.000000
 newmtl FireStationroad
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXFireStationroad.TIFF
+map_Kd TEXFireStationroad.png
 d 1.000000
 newmtl STX03FireStationExterior
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXFireStationexterior.TIFF
+map_Kd TEXFireStationexterior.png
 d 1.000000
 newmtl 06Default
 Ka 0 0 0
@@ -42,13 +42,13 @@ newmtl FireStationRoof
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXFireStationroof.TIFF
+map_Kd TEXFireStationroof.png
 d 1.000000
 newmtl FireStationinterior
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXFireStationinterior.TIFF
+map_Kd TEXFireStationinterior.png
 d 1.000000
 newmtl 07Default
 Ka 0 0 0
@@ -59,5 +59,5 @@ newmtl STX05FireStationSign
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXFireStationsign.TIFF
+map_Kd TEXFireStationsign.png
 d 1.000000

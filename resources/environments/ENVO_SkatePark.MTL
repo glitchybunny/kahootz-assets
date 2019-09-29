@@ -5,7 +5,7 @@ d 0.000000
 newmtl STX01SkateParkBowlLeadinRamp
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXSkateParkgroundconcrete.TIFF
+map_Kd TEXSkateParkgroundconcrete.png
 d 1.000000
 newmtl SkateParkRailTop
 Ns 51.200001
@@ -16,12 +16,12 @@ d 1.000000
 newmtl STX03SkateParkRamps
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXSkateParkramps.TIFF
+map_Kd TEXSkateParkramps.png
 d 1.000000
 newmtl STX04SkateParkRampLanding
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXSkateParkrampLanding.TIFF
+map_Kd TEXSkateParkrampLanding.png
 d 1.000000
 newmtl SkateParkSafetyRails
 Ns 76.800003
@@ -29,17 +29,17 @@ d 1.000000
 newmtl SkateParkRampSides
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXSkateParkrampSides.TIFF
+map_Kd TEXSkateParkrampSides.png
 d 1.000000
 newmtl STX01SkateParkground
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXSkateParkgroundconcrete.TIFF
+map_Kd TEXSkateParkgroundconcrete.png
 d 1.000000
 newmtl STX01SkateParkgroundBowlRamp
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXSkateParkgroundconcrete.TIFF
+map_Kd TEXSkateParkgroundconcrete.png
 d 1.000000
 newmtl SkateParkBowlRail
 Ks 0 0 0
@@ -48,12 +48,12 @@ d 1.000000
 newmtl STX02SkateParkOuterWall
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXSkateParkouterWall.TIFF
+map_Kd TEXSkateParkouterWall.png
 d 1.000000
 newmtl STX02SkateParkOuterWalltop
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXSkateParkouterWall.TIFF
+map_Kd TEXSkateParkouterWall.png
 d 1.000000
 newmtl SkateParkOuterGrounds
 Ks 0 0 0

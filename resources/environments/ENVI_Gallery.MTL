@@ -5,17 +5,17 @@ d 0.000000
 newmtl STX05GalleryroofMez
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXGalleryroof.TIFF
+map_Kd TEXGalleryroof.png
 d 1.000000
 newmtl STX01Gallerywallinner
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXGallerywall.TIFF
+map_Kd TEXGallerywall.png
 d 1.000000
 newmtl STX02GallerymainFloor
 Ks 0 0 0
 Ns 128.000000
-map_Kd TEXGallerymainFloor.TIFF
+map_Kd TEXGallerymainFloor.png
 d 1.000000
 newmtl GallerywindowpaneYellow
 Ns 128.000000
@@ -41,12 +41,12 @@ d 0.500000
 newmtl STX01GallerywallMezX
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXGallerywall.TIFF
+map_Kd TEXGallerywall.png
 d 1.000000
 newmtl STX01GallerywallgroundX
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXGallerywall.TIFF
+map_Kd TEXGallerywall.png
 d 1.000000
 newmtl GalleryOverHangsideing
 Ks 0 0 0
@@ -54,21 +54,21 @@ Ns 51.200001
 d 1.000000
 newmtl GallerycrossBoltsribbing
 Ns 51.200001
-map_Kd TEXGallerycrossBolts.TIFF
+map_Kd TEXGallerycrossBolts.png
 d 1.000000
 newmtl GallerycrossBoltsEdgeing
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXGallerycrossBolts.TIFF
+map_Kd TEXGallerycrossBolts.png
 d 1.000000
 newmtl GallerycrossBolts
 Ns 51.200001
-map_Kd TEXGallerycrossBolts.TIFF
+map_Kd TEXGallerycrossBolts.png
 d 1.000000
 newmtl STX03GalleryMezFloor
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXGalleryMezFloor.TIFF
+map_Kd TEXGalleryMezFloor.png
 d 1.000000
 newmtl GalleryMezRailtop
 Ns 51.200001
@@ -76,20 +76,20 @@ d 1.000000
 newmtl Gallerybannister
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXGallerybannister.TIFF
+map_Kd TEXGallerybannister.png
 d 1.000000
 newmtl STX04GallerymainVault
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXGallerymainVault.TIFF
+map_Kd TEXGallerymainVault.png
 d 1.000000
 newmtl GalleryOutsideScene
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXGalleryoutsideScene.TIFF
+map_Kd TEXGalleryoutsideScene.png
 d 1.000000
 newmtl STX05GalleryroofOverhang
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXGalleryroof.TIFF
+map_Kd TEXGalleryroof.png
 d 1.000000

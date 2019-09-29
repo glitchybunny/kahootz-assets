@@ -10,5 +10,5 @@ d 0.000000
 newmtl STX01SciFi01InnerSphere
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXSciFi01InnerSphere.TIFF
+map_Kd TEXSciFi01InnerSphere.png
 d 1.000000

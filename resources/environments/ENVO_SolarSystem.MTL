@@ -10,55 +10,55 @@ d 0.000000
 newmtl STX02SolarSystemsun
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXSolarSystemsunA.TIFF
+map_Kd TEXSolarSystemsunA.png
 d 1.000000
 newmtl SolarSystemmercury
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXSolarSystemmercury.TIFF
+map_Kd TEXSolarSystemmercury.png
 d 1.000000
 newmtl SolarSystemvenus
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXSolarSystemvenus.TIFF
+map_Kd TEXSolarSystemvenus.png
 d 1.000000
 newmtl STX01SolarSystemearth
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXSolarSystemearth.TIFF
+map_Kd TEXSolarSystemearth.png
 d 1.000000
 newmtl SolarSystemmars
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXSolarSystemmars.TIFF
+map_Kd TEXSolarSystemmars.png
 d 1.000000
 newmtl STX03SolarSystemjupiter
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXSolarSystemjupiter.TIFF
+map_Kd TEXSolarSystemjupiter.png
 d 1.000000
 newmtl STX04SolarSystemsaturn
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXSolarSystemsaturn.TIFF
+map_Kd TEXSolarSystemsaturn.png
 d 1.000000
 newmtl SolarSystemsaturnsRing
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXSolarSystemsaturnRings.TIFF
+map_Kd TEXSolarSystemsaturnRings.png
 d 0.500000
 newmtl SolarSystemneptune
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXSolarSystemneptune.TIFF
+map_Kd TEXSolarSystemneptune.png
 d 1.000000
 newmtl SolarSystemuranus
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXSolarSystemuranus.TIFF
+map_Kd TEXSolarSystemuranus.png
 d 1.000000
 newmtl SolarSystempluto
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXSolarSystempluto.TIFF
+map_Kd TEXSolarSystempluto.png
 d 1.000000

@@ -2,31 +2,31 @@ newmtl STX01DigitalWorldGrid
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXDigitalWorldGridBlueA.TIFF
+map_Kd TEXDigitalWorldGridBlueA.png
 d 1.000000
 newmtl STX03DigitalWorldBlueLight
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXDigitalWorldLight.TIFF
+map_Kd TEXDigitalWorldLight.png
 d 1.000000
 newmtl STX05DigitalWorldYellowLight
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXDigitalWorldYellowLight.TIFF
+map_Kd TEXDigitalWorldYellowLight.png
 d 1.000000
 newmtl STX04DigitalWorldRedLight
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXDigitalWorldRedLight.TIFF
+map_Kd TEXDigitalWorldRedLight.png
 d 1.000000
 newmtl STX02DigitalWorldRedGrid
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXDigitalWorldGridRed.TIFF
+map_Kd TEXDigitalWorldGridRed.png
 d 1.000000
 newmtl 06Default
 Ka 0 0 0

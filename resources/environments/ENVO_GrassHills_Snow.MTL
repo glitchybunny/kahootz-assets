@@ -5,10 +5,10 @@ d 0.000000
 newmtl STX01GrassHillssnow
 Ks 0 0 0
 Ns 25.600000
-map_Kd TEXGrassHillssnow.TIFF
+map_Kd TEXGrassHillssnow.png
 d 1.000000
 newmtl STX01GrassHillssnowouter
 Ks 0 0 0
 Ns 25.600000
-map_Kd TEXGrassHillssnow.TIFF
+map_Kd TEXGrassHillssnow.png
 d 1.000000

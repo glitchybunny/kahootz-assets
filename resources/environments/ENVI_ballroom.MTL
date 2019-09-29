@@ -7,19 +7,19 @@ newmtl STX04Ballroomceiling
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXBallroomceiling.TIFF
+map_Kd TEXBallroomceiling.png
 d 1.000000
 newmtl STX03Ballroomredcarpet
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXBallroomredcarpet.TIFF
+map_Kd TEXBallroomredcarpet.png
 d 1.000000
 newmtl STX01Ballroomwalls
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXBallroomwalls.TIFF
+map_Kd TEXBallroomwalls.png
 d 1.000000
 newmtl Ballroombeigepaint
 Ka 0 0 0
@@ -30,23 +30,23 @@ newmtl Ballroomdivider
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXBallroomdivider.TIFF
+map_Kd TEXBallroomdivider.png
 d 1.000000
 newmtl STX02Ballroomfloor
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXBallroomfloor.TIFF
+map_Kd TEXBallroomfloor.png
 d 1.000000
 newmtl STX05Ballroomstairs
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXBallroomstairs.TIFF
+map_Kd TEXBallroomstairs.png
 d 1.000000
 newmtl Ballroombalcony
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXBallroombalcony.TIFF
+map_Kd TEXBallroombalcony.png
 d 1.000000

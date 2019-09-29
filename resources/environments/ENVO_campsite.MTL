@@ -7,65 +7,65 @@ newmtl STX04campsitewoodplanks
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXcampsitewoodplanks.TIFF
+map_Kd TEXcampsitewoodplanks.png
 d 1.000000
 newmtl campsitewoodplanks02
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXcampsitewoodplanks02.TIFF
+map_Kd TEXcampsitewoodplanks02.png
 d 1.000000
 newmtl campsiteconcrete
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXcampsiteconcrete.TIFF
+map_Kd TEXcampsiteconcrete.png
 d 1.000000
 newmtl STX03campsiteroad
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXcampsiteroad.TIFF
+map_Kd TEXcampsiteroad.png
 d 1.000000
 newmtl STX02campsitegrass
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXcampsitegrass.TIFF
+map_Kd TEXcampsitegrass.png
 d 1.000000
 newmtl campsitesand
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXcampsitesand.TIFF
+map_Kd TEXcampsitesand.png
 d 1.000000
 newmtl campsitedarkgrass
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXcampsitedarkgrass.TIFF
+map_Kd TEXcampsitedarkgrass.png
 d 1.000000
 newmtl STX03campsitecarpark
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXcampsitecarpark.TIFF
+map_Kd TEXcampsitecarpark.png
 d 1.000000
 newmtl STX01campsiteseabedA
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXcampsiteseabedA.TIFF
+map_Kd TEXcampsiteseabedA.png
 d 1.000000
 newmtl STX01campsiteWaterA
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXcampsiteWaterA.TIFF
+map_Kd TEXcampsiteWaterA.png
 d 1.000000
 newmtl campsitehills
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXcampsitehills.TIFF
+map_Kd TEXcampsitehills.png
 d 1.000000

@@ -7,31 +7,31 @@ newmtl STX02tunnelmetalrivets
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXtunnelmetalrivets.TIFF
+map_Kd TEXtunnelmetalrivets.png
 d 1.000000
 newmtl tunneldirt
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXtunneldirt.TIFF
+map_Kd TEXtunneldirt.png
 d 1.000000
 newmtl STX01tunnelmetalrust
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXtunnelmetalrust.TIFF
+map_Kd TEXtunnelmetalrust.png
 d 1.000000
 newmtl STX03tunnelfloor
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXtunnelfloor.TIFF
+map_Kd TEXtunnelfloor.png
 d 1.000000
 newmtl tunnelrust
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXtunnelrust.TIFF
+map_Kd TEXtunnelrust.png
 d 1.000000
 newmtl DefaultMaterial0
 Ka 0 0 0
@@ -42,5 +42,5 @@ newmtl STX04tunnelfans
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXtunnelfans.TIFF
+map_Kd TEXtunnelfans.png
 d 1.000000

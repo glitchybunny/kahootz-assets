@@ -5,37 +5,37 @@ d 0.000000
 newmtl STX03MaxFactoryFactoryRoof
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXMaxFactoryRoof.TIFF
+map_Kd TEXMaxFactoryRoof.png
 d 1.000000
 newmtl STX04MaxFactoryFactoryWalls
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXMaxFactorybrick.TIFF
+map_Kd TEXMaxFactorybrick.png
 d 1.000000
 newmtl STX01MaxFactoryFactoryRoofRibbing
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXMaxFactoryRoofRibbing.TIFF
+map_Kd TEXMaxFactoryRoofRibbing.png
 d 1.000000
 newmtl STX02MaxFactoryStageFloor
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXMaxFactoryStageFloor.TIFF
+map_Kd TEXMaxFactoryStageFloor.png
 d 1.000000
 newmtl STX05MaxFactoryFloor
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXMaxFactoryFloor.TIFF
+map_Kd TEXMaxFactoryFloor.png
 d 1.000000
 newmtl MaxFactoryEndlessFactory
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXMaxFactoryEndlessWall.TIFF
+map_Kd TEXMaxFactoryEndlessWall.png
 d 1.000000
 newmtl MaxFactoryOutsideWorld
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXMaxFactoryOutsideWorld.TIFF
+map_Kd TEXMaxFactoryOutsideWorld.png
 d 1.000000
 newmtl MaxFactoryLightBody
 Ks 0 0 0

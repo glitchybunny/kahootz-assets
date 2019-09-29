@@ -7,29 +7,29 @@ newmtl STX01SnowTubesnow
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXSnowTubesnow.TIFF
+map_Kd TEXSnowTubesnow.png
 d 1.000000
 newmtl STX02SnowTuberock
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXSnowTuberock.TIFF
+map_Kd TEXSnowTuberock.png
 d 1.000000
 newmtl STX04SnowTubebarrier
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXSnowTubebarrier.TIFF
+map_Kd TEXSnowTubebarrier.png
 d 1.000000
 newmtl SnowTubePole
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXSnowTubepole.TIFF
+map_Kd TEXSnowTubepole.png
 d 1.000000
 newmtl STX05SnowTubehalfpipe
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXSnowTubehalfpipe.TIFF
+map_Kd TEXSnowTubehalfpipe.png
 d 1.000000

@@ -5,47 +5,47 @@ d 0.000000
 newmtl STX02BedroomTexture01WallRunner02
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXBedroomtexture01.TIFF
+map_Kd TEXBedroomtexture01.png
 d 1.000000
 newmtl STX02BedroomTexture01Wall02
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXBedroomtexture01.TIFF
+map_Kd TEXBedroomtexture01.png
 d 1.000000
 newmtl STX02BedroomTexture01WallRunner01
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXBedroomtexture01.TIFF
+map_Kd TEXBedroomtexture01.png
 d 1.000000
 newmtl STX02BedroomTexture01Window01Frame
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXBedroomtexture01.TIFF
+map_Kd TEXBedroomtexture01.png
 d 1.000000
 newmtl STX04BedroomTexture02Window01edgesLight
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXBedroomtexture02.TIFF
+map_Kd TEXBedroomtexture02.png
 d 1.000000
 newmtl STX04BedroomTexture02Window01edges
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXBedroomtexture02.TIFF
+map_Kd TEXBedroomtexture02.png
 d 1.000000
 newmtl STX05BedroomColour01Roof
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXBedroomColour01.TIFF
+map_Kd TEXBedroomColour01.png
 d 1.000000
 newmtl STX01Bedroomfloor
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXBedroomfloor.TIFF
+map_Kd TEXBedroomfloor.png
 d 1.000000
 newmtl STX02BedroomTexture01Wall01
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXBedroomtexture01.TIFF
+map_Kd TEXBedroomtexture01.png
 d 1.000000
 newmtl BedroomhallwayFloor
 Ks 0 0 0
@@ -74,10 +74,10 @@ d 1.000000
 newmtl STX04BedroomTexture02DoorFrame
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXBedroomtexture02.TIFF
+map_Kd TEXBedroomtexture02.png
 d 1.000000
 newmtl STX03Bedroomwindow
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXBedroomwindow.TIFF
+map_Kd TEXBedroomwindow.png
 d 1.000000

@@ -7,71 +7,71 @@ newmtl asiancityconcrete
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXasiancityconcrete.TIFF
+map_Kd TEXasiancityconcrete.png
 d 1.000000
 newmtl asiancitybuilding01
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXasiancitybuilding01.TIFF
+map_Kd TEXasiancitybuilding01.png
 d 1.000000
 newmtl STX04asiancityawning
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXasiancityawning.TIFF
+map_Kd TEXasiancityawning.png
 d 1.000000
 newmtl STX02asiancitytiles
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXasiancitytiles.TIFF
+map_Kd TEXasiancitytiles.png
 d 1.000000
 newmtl STX04asiancitygreenplastic
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXasiancitygreenplastic.TIFF
+map_Kd TEXasiancitygreenplastic.png
 d 1.000000
 newmtl asiancitybuilding06
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXasiancitybuilding06.TIFF
+map_Kd TEXasiancitybuilding06.png
 d 1.000000
 newmtl asiancitybuilding03
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXasiancitybuilding03.TIFF
+map_Kd TEXasiancitybuilding03.png
 d 1.000000
 newmtl asiancitybuilding05
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXasiancitybuilding05.TIFF
+map_Kd TEXasiancitybuilding05.png
 d 1.000000
 newmtl asiancitybuilding04
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXasiancitybuilding04.TIFF
+map_Kd TEXasiancitybuilding04.png
 d 1.000000
 newmtl asiancitybuilding02
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXasiancitybuilding02.TIFF
+map_Kd TEXasiancitybuilding02.png
 d 1.000000
 newmtl STX03asiancitywall
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXasiancitywall.TIFF
+map_Kd TEXasiancitywall.png
 d 1.000000
 newmtl STX01asiancityroad
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXasiancityroad.TIFF
+map_Kd TEXasiancityroad.png
 d 1.000000

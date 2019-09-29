@@ -7,41 +7,41 @@ newmtl STX01flathillrocksand
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXflathillrocksand.TIFF
+map_Kd TEXflathillrocksand.png
 d 1.000000
 newmtl STX04flathillwalls
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXflathillwalls.TIFF
+map_Kd TEXflathillwalls.png
 d 1.000000
 newmtl STX04flathillfossil01
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXflathillfossil01.TIFF
+map_Kd TEXflathillfossil01.png
 d 1.000000
 newmtl STX04flathillfossil02
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXflathillfossil02.TIFF
+map_Kd TEXflathillfossil02.png
 d 1.000000
 newmtl STX04flathillfossil03
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXflathillfossil03.TIFF
+map_Kd TEXflathillfossil03.png
 d 1.000000
 newmtl STX03flathilldarksand
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXflathilldarksand.TIFF
+map_Kd TEXflathilldarksand.png
 d 1.000000
 newmtl STX02flathillsand
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXflathillsand.TIFF
+map_Kd TEXflathillsand.png
 d 1.000000

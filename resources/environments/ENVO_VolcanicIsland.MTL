@@ -5,45 +5,45 @@ d 0.000000
 newmtl STX03VolcanicIslandoceanDistant
 Ks 0 0 0
 Ns 108.800003
-map_Kd TEXVolcanicIslandoceanbeforeA.TIFF
+map_Kd TEXVolcanicIslandoceanbeforeA.png
 d 1.000000
 newmtl STX03VolcanicIslandoceanCloser
 Ks 0 0 0
 Ns 108.800003
-map_Kd TEXVolcanicIslandoceanbeforeA.TIFF
+map_Kd TEXVolcanicIslandoceanbeforeA.png
 d 1.000000
 newmtl STX02VolcanicIslandConeRocks
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXVolcanicIslandconebefore.TIFF
+map_Kd TEXVolcanicIslandconebefore.png
 d 1.000000
 newmtl STX03VolcanicIslandOceanRockPoolWater
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXVolcanicIslandoceanbeforeA.TIFF
+map_Kd TEXVolcanicIslandoceanbeforeA.png
 d 1.000000
 newmtl STX02VolcanicIslandConeRocksRing
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXVolcanicIslandconebefore.TIFF
+map_Kd TEXVolcanicIslandconebefore.png
 d 1.000000
 newmtl STX04VolcanicIslandBeach
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXVolcanicIslandBeach.TIFF
+map_Kd TEXVolcanicIslandBeach.png
 d 1.000000
 newmtl STX01VolcanicIslandtop
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXVolcanicIslandTopbefore.TIFF
+map_Kd TEXVolcanicIslandTopbefore.png
 d 1.000000
 newmtl STX02VolcanicIslandCone
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXVolcanicIslandconebefore.TIFF
+map_Kd TEXVolcanicIslandconebefore.png
 d 1.000000
 newmtl STX02VolcanicIslandConeCave
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXVolcanicIslandconebefore.TIFF
+map_Kd TEXVolcanicIslandconebefore.png
 d 1.000000

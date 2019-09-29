@@ -5,20 +5,20 @@ d 0.000000
 newmtl STX03SnowCappedMountainssnowouter
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXSnowCappedMountainsnow.TIFF
+map_Kd TEXSnowCappedMountainsnow.png
 d 1.000000
 newmtl STX01SnowCappedMountainsforest
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXSnowCappedMountainforest.TIFF
+map_Kd TEXSnowCappedMountainforest.png
 d 1.000000
 newmtl STX02SnowCappedMountainsmountain
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXSnowCappedMountainmountain.TIFF
+map_Kd TEXSnowCappedMountainmountain.png
 d 1.000000
 newmtl STX03SnowCappedMountainssnowcap
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXSnowCappedMountainsnow.TIFF
+map_Kd TEXSnowCappedMountainsnow.png
 d 1.000000

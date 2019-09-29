@@ -5,17 +5,17 @@ d 0.000000
 newmtl STX03BackyardColour01grass
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXBackyardColour01.TIFF
+map_Kd TEXBackyardColour01.png
 d 1.000000
 newmtl STX01Backyardtexture01house
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXBackyardtexture01.TIFF
+map_Kd TEXBackyardtexture01.png
 d 1.000000
 newmtl Backyardfence
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXBackyardfence.TIFF
+map_Kd TEXBackyardfence.png
 d 1.000000
 newmtl BackyardfenceShadow
 Ks 0 0 0
@@ -24,7 +24,7 @@ d 1.000000
 newmtl Backyarddecking
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXplanks.TIFF
+map_Kd TEXplanks.png
 d 1.000000
 newmtl BackyardplanksShade
 Ks 0 0 0
@@ -45,12 +45,12 @@ d 1.000000
 newmtl STX01Backyardtexture01houseShadow
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXBackyardtexture01.TIFF
+map_Kd TEXBackyardtexture01.png
 d 1.000000
 newmtl STX04BackyardColour02roof
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXBackyardColour02.TIFF
+map_Kd TEXBackyardColour02.png
 d 1.000000
 newmtl BackyardroofDetail
 Ks 0 0 0
@@ -63,7 +63,7 @@ d 1.000000
 newmtl BackyardhouseBottom
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXBackyardhouseBoards.TIFF
+map_Kd TEXBackyardhouseBoards.png
 d 1.000000
 newmtl Backyarddoor01detail
 Ks 0 0 0
@@ -92,7 +92,7 @@ d 1.000000
 newmtl STX02Backyardpaving
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXBackyardpaving.TIFF
+map_Kd TEXBackyardpaving.png
 d 1.000000
 newmtl BackyardpicketFence
 Ks 0 0 0

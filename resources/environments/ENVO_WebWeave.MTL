@@ -4,9 +4,9 @@ Ns 51.200001
 d 0.000000
 newmtl STX01WebWeaveTextureLand
 Ns 96.000000
-map_Kd TEXWebWeaveTexture.TIFF
+map_Kd TEXWebWeaveTexture.png
 d 0.750000
 newmtl STX01WebWeaveTextureGroundTeir
 Ns 96.000000
-map_Kd TEXWebWeaveTexture.TIFF
+map_Kd TEXWebWeaveTexture.png
 d 0.750000

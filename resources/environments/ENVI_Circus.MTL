@@ -5,17 +5,17 @@ d 0.000000
 newmtl STX04CircustentFabrictop
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXCIRCUStentFabric.TIFF
+map_Kd TEXCIRCUStentFabric.png
 d 1.000000
 newmtl STX04CircustentFabricground
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXCIRCUStentFabric.TIFF
+map_Kd TEXCIRCUStentFabric.png
 d 1.000000
 newmtl CircusgrassmainFloor
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXCIRCUSgrass.TIFF
+map_Kd TEXCIRCUSgrass.png
 d 1.000000
 newmtl CircustopRing
 Ns 51.200001
@@ -29,15 +29,15 @@ d 1.000000
 newmtl STX03Circusringmain
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXCIRCUSring.TIFF
+map_Kd TEXCIRCUSring.png
 d 1.000000
 newmtl STX05CircusColour02poleslight
 Ns 51.200001
-map_Kd TEXCIRCUSColour02.TIFF
+map_Kd TEXCIRCUSColour02.png
 d 1.000000
 newmtl STX05CircusColour02polesdark
 Ns 51.200001
-map_Kd TEXCIRCUSColour02.TIFF
+map_Kd TEXCIRCUSColour02.png
 d 1.000000
 newmtl CircuspolesConnectors
 Ns 51.200001
@@ -53,25 +53,25 @@ Ns 51.200001
 d 1.000000
 newmtl STX01CircusseatBoxes
 Ns 51.200001
-map_Kd TEXCIRCUSseatBoxes.TIFF
+map_Kd TEXCIRCUSseatBoxes.png
 d 1.000000
 newmtl STX01CircusseatBoxessides
 Ns 51.200001
-map_Kd TEXCIRCUSseatBoxes.TIFF
+map_Kd TEXCIRCUSseatBoxes.png
 d 1.000000
 newmtl CircusColour01benchboxtop
 Ns 51.200001
-map_Kd TEXCIRCUSColour01.TIFF
+map_Kd TEXCIRCUSColour01.png
 d 1.000000
 newmtl STX02CircuswoodbenchSeatstop
 Ns 51.200001
-map_Kd TEXCIRCUSwood.TIFF
+map_Kd TEXCIRCUSwood.png
 d 1.000000
 newmtl STX02CircuswoodbenchSeatsfront
 Ns 51.200001
-map_Kd TEXCIRCUSwood.TIFF
+map_Kd TEXCIRCUSwood.png
 d 1.000000
 newmtl CircusColour01benchSeatssides
 Ns 51.200001
-map_Kd TEXCIRCUSColour01.TIFF
+map_Kd TEXCIRCUSColour01.png
 d 1.000000

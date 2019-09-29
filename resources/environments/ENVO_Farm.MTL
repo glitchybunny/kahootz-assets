@@ -7,65 +7,65 @@ newmtl FarmSand
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXFarmSand.TIFF
+map_Kd TEXFarmSand.png
 d 1.000000
 newmtl FarmFence
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXFarmFence.TIFF
+map_Kd TEXFarmFence.png
 d 1.000000
 newmtl STX02FarmDirt
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXFarmDirt.TIFF
+map_Kd TEXFarmDirt.png
 d 1.000000
 newmtl STX02FarmTwigs
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXFarmTwigs.TIFF
+map_Kd TEXFarmTwigs.png
 d 1.000000
 newmtl STX01FarmGrassDark
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXFarmGrassDark.TIFF
+map_Kd TEXFarmGrassDark.png
 d 1.000000
 newmtl STX01FarmGrassBright
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXFarmGrassBright.TIFF
+map_Kd TEXFarmGrassBright.png
 d 1.000000
 newmtl FarmBushes
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXFarmBushes.TIFF
+map_Kd TEXFarmBushes.png
 d 1.000000
 newmtl FarmBurrows
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXFarmBurrows.TIFF
+map_Kd TEXFarmBurrows.png
 d 1.000000
 newmtl STX04FarmWaterA
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXFarmWaterA.TIFF
+map_Kd TEXFarmWaterA.png
 d 1.000000
 newmtl STX03FarmCropDirt
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXFarmCropDirt.TIFF
+map_Kd TEXFarmCropDirt.png
 d 1.000000
 newmtl FarmBurrowsDirt
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXFarmBurrowsDirt.TIFF
+map_Kd TEXFarmBurrowsDirt.png
 d 1.000000

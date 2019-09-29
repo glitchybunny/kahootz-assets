@@ -5,25 +5,25 @@ d 0.000000
 newmtl AntFarmGround
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXAntFarmGround.TIFF
+map_Kd TEXAntFarmGround.png
 d 1.000000
 newmtl STX02AntFarmLayer02
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXAntFarmLayer02.TIFF
+map_Kd TEXAntFarmLayer02.png
 d 1.000000
 newmtl STX03AntFarmLayer03
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXAntFarmLayer03.TIFF
+map_Kd TEXAntFarmLayer03.png
 d 1.000000
 newmtl STX01AntFarmLayer01
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXAntFarmLayer01.TIFF
+map_Kd TEXAntFarmLayer01.png
 d 1.000000
 newmtl STX04AntFarmTunnels
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXAntFarmTunnels.TIFF
+map_Kd TEXAntFarmTunnels.png
 d 1.000000

@@ -7,25 +7,25 @@ newmtl citystreetsbuilding02
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXcitystreetsbuilding02.TIFF
+map_Kd TEXcitystreetsbuilding02.png
 d 1.000000
 newmtl citystreetsbuilding06
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXcitystreetsbuilding06.TIFF
+map_Kd TEXcitystreetsbuilding06.png
 d 1.000000
 newmtl STX04citystreetsawning
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXcitystreetsawning.TIFF
+map_Kd TEXcitystreetsawning.png
 d 1.000000
 newmtl STX01citystreetsroad
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXcitystreetsroad.TIFF
+map_Kd TEXcitystreetsroad.png
 d 1.000000
 newmtl Material37
 Ka 0 0 0
@@ -61,37 +61,37 @@ newmtl STX02citystreetsconcrete
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXcitystreetsconcrete.TIFF
+map_Kd TEXcitystreetsconcrete.png
 d 1.000000
 newmtl citystreetsbeigepaint
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXcitystreetsbeigepaint.TIFF
+map_Kd TEXcitystreetsbeigepaint.png
 d 1.000000
 newmtl STX04citystreetsawningred
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXcitystreetsawningred.TIFF
+map_Kd TEXcitystreetsawningred.png
 d 1.000000
 newmtl citystreetsbuilding03
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXcitystreetsbuilding03.TIFF
+map_Kd TEXcitystreetsbuilding03.png
 d 1.000000
 newmtl citystreetsbuilding04
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXcitystreetsbuilding04.TIFF
+map_Kd TEXcitystreetsbuilding04.png
 d 1.000000
 newmtl citystreetsbuilding05
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXcitystreetsbuilding05.TIFF
+map_Kd TEXcitystreetsbuilding05.png
 d 1.000000
 newmtl Material25
 Ka 0 0 0
@@ -107,11 +107,11 @@ newmtl citystreetsbuilding01
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXcitystreetsbuilding01.TIFF
+map_Kd TEXcitystreetsbuilding01.png
 d 1.000000
 newmtl STX03citystreetswalls
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXcitystreetswalls.TIFF
+map_Kd TEXcitystreetswalls.png
 d 1.000000

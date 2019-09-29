@@ -7,31 +7,31 @@ newmtl STX02OrganicWorldFloor
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXOrganicWorldFloor.TIFF
+map_Kd TEXOrganicWorldFloor.png
 d 1.000000
 newmtl STX01OrganicWorldWallA
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXOrganicWorldWallA.TIFF
+map_Kd TEXOrganicWorldWallA.png
 d 1.000000
 newmtl STX03OrganicWorldVein
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXOrganicWorldVein.TIFF
+map_Kd TEXOrganicWorldVein.png
 d 1.000000
 newmtl STX04OrganicWorldCell
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXOrganicWorldCell.TIFF
+map_Kd TEXOrganicWorldCell.png
 d 1.000000
 newmtl STX05OrganicWorld
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXOrganicWorldBlob.TIFF
+map_Kd TEXOrganicWorldBlob.png
 d 1.000000
 newmtl DefaultMaterial0
 Ka 0 0 0

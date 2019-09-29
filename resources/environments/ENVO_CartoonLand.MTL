@@ -7,19 +7,19 @@ newmtl STX02CartoonLandGrass
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXCartoonLandGrass.TIFF
+map_Kd TEXCartoonLandGrass.png
 d 1.000000
 newmtl STX03CartoonLandRoad
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXCartoonLandRoad.TIFF
+map_Kd TEXCartoonLandRoad.png
 d 1.000000
 newmtl STX04CartoonLandBuilding
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXCartoonLandBuilding.TIFF
+map_Kd TEXCartoonLandBuilding.png
 d 1.000000
 newmtl CartoonLandBuilding
 Ka 0 0 0
@@ -35,5 +35,5 @@ newmtl STX05CartoonLandSun
 Ka 1 1 1
 Ks 0 0 0
 Ns 12.799999
-map_Kd TEXCartoonLandSun.TIFF
+map_Kd TEXCartoonLandSun.png
 d 1.000000

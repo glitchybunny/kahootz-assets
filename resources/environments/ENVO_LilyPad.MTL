@@ -5,41 +5,41 @@ d 0.000000
 newmtl LilyPadlineOfTrees
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXLilyPadLineOfTrees.TIFF
+map_Kd TEXLilyPadLineOfTrees.png
 d 1.000000
 newmtl STX01LilyPadGround
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXLilyPadground.TIFF
+map_Kd TEXLilyPadground.png
 d 1.000000
 newmtl STX01LilyPadGroundOuter
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXLilyPadground.TIFF
+map_Kd TEXLilyPadground.png
 d 1.000000
 newmtl LilyPadleaf
 Ns 128.000000
-map_Kd TEXLilyPadleaf.TIFF
+map_Kd TEXLilyPadleaf.png
 d 1.000000
 newmtl STX02LilyPadpadLarge
 Ns 128.000000
-map_Kd TEXLilyPadpad.TIFF
+map_Kd TEXLilyPadpad.png
 d 1.000000
 newmtl STX02LilyPadpadsmall
 Ns 128.000000
-map_Kd TEXLilyPadpad.TIFF
+map_Kd TEXLilyPadpad.png
 d 1.000000
 newmtl STX04LilyPadLargeFlower
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXLilyPadLargeFlower.TIFF
+map_Kd TEXLilyPadLargeFlower.png
 d 1.000000
 newmtl LilyPadStickFlower
 Ns 128.000000
-map_Kd TEXLilyPadStickFlower.TIFF
+map_Kd TEXLilyPadStickFlower.png
 d 1.000000
 newmtl STX03LilyPadwater
 Ks 0 0 0
 Ns 128.000000
-map_Kd TEXLilyPadwaterA.TIFF
+map_Kd TEXLilyPadwaterA.png
 d 1.000000

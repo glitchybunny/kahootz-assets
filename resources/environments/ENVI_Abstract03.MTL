@@ -5,25 +5,25 @@ d 0.000000
 newmtl STX03Abstract03main03
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXAbstract03Main03.TIFF
+map_Kd TEXAbstract03Main03.png
 d 1.000000
 newmtl STX01Abstract03main01
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXAbstract03Main01.TIFF
+map_Kd TEXAbstract03Main01.png
 d 1.000000
 newmtl STX02Abstract03main02
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXAbstract03Main02.TIFF
+map_Kd TEXAbstract03Main02.png
 d 1.000000
 newmtl STX04Abstract03Shapes01
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXAbstract03Shapes01.TIFF
+map_Kd TEXAbstract03Shapes01.png
 d 1.000000
 newmtl STX05Abstract03Shapes02
 Ks 0 0 0
 Ns 51.200001
-map_Kd TEXAbstract03Shapes02.TIFF
+map_Kd TEXAbstract03Shapes02.png
 d 1.000000
