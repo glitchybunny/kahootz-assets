@@ -1,34 +1,57 @@
-newmtl Abstract01CollisionBox
-Ks 0 0 0
-Ns 51.200001
-d 0.000000
-newmtl null
-Ka 1 1 1
-Ks 0 0 0
-Ns 0.000000
-d 0.000000
+# Blender MTL File: 'ENVI_Abstract01.blend'
+# Material Count: 5
+
 newmtl STX01Abstract01Ball01
-Ks 0 0 0
-Ns 51.200001
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
 map_Kd TEXAbstract01Dots.png
-d 1.000000
-newmtl STX05Abstract01Red
-Ks 0 0 0
-Ns 51.200001
-map_Kd TEXAbstract01Red.png
-d 1.000000
+
 newmtl STX02Abstract01Green
-Ks 0 0 0
-Ns 51.200001
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
 map_Kd TEXAbstract01Green.png
-d 1.000000
+
 newmtl STX03Abstract01Orange
-Ks 0 0 0
-Ns 51.200001
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
 map_Kd TEXAbstract01Orange.png
-d 1.000000
+
 newmtl STX04Abstract01Pink
-Ks 0 0 0
-Ns 51.200001
-map_Kd TEXAbstract01Pink.png
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
 d 1.000000
+illum 1
+map_Kd TEXAbstract01Pink.png
+
+newmtl STX05Abstract01Red
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd TEXAbstract01Red.png

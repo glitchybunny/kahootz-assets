@@ -1,44 +1,89 @@
-newmtl Abstract02CollisionBox
-Ks 0 0 0
-Ns 51.200001
-d 0.000000
-newmtl null
-Ka 1 1 1
-Ks 0 0 0
-Ns 0.000000
-d 0.000000
-newmtl STX04Abstract02Strips02
-Ks 0 0 0
-Ns 51.200001
-map_Kd TEXAbstract02Strips02.png
-d 0.900000
-newmtl STX03Abstract02Strips01
-Ks 0 0 0
-Ns 51.200001
-map_Kd TEXAbstract02Strips01.png
-d 0.900000
-newmtl STX05Abstract02Strips03
-Ks 0 0 0
-Ns 51.200001
-map_Kd TEXAbstract02Strips03.png
-d 0.900000
-newmtl STX02Abstract02RunningStripsZ
-Ks 0 0 0
-Ns 51.200001
-map_Kd TEXAbstract02RunningStrips.png
-d 0.750000
-newmtl STX02Abstract02RunningStripsX
-Ks 0 0 0
-Ns 51.200001
-map_Kd TEXAbstract02RunningStrips.png
-d 0.750000
-newmtl STX02Abstract02RunningStripsY
-Ks 0 0 0
-Ns 51.200001
-map_Kd TEXAbstract02RunningStrips.png
-d 0.750000
+# Blender MTL File: 'ENVI_Abstract02.blend'
+# Material Count: 8
+
 newmtl STX01Abstract02Blocks
-Ks 0 0 0
-Ns 51.200001
-map_Kd TEXAbstract02Blocks.png
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
 d 1.000000
+illum 1
+map_Kd TEXAbstract02Blocks.png
+
+newmtl STX02Abstract02RunningStripsX
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 0.750000
+illum 1
+map_Kd TEXAbstract02RunningStrips.png
+
+newmtl STX02Abstract02RunningStripsY
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 0.750000
+illum 1
+map_Kd TEXAbstract02RunningStrips.png
+
+newmtl STX02Abstract02RunningStripsZ
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 0.750000
+illum 1
+map_Kd TEXAbstract02RunningStrips.png
+
+newmtl STX03Abstract02Strips01
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 0.900000
+illum 1
+map_Kd TEXAbstract02Strips01.png
+
+newmtl STX04Abstract02Strips02
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 0.900000
+illum 1
+map_Kd TEXAbstract02Strips02.png
+
+newmtl STX05Abstract02Strips03
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 0.900000
+illum 1
+map_Kd TEXAbstract02Strips03.png
+
+newmtl null
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 0.000000
+illum 1
