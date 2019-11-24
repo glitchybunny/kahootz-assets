@@ -1,94 +1,149 @@
-newmtl BathroomCollisionBox
-Ks 0 0 0
-Ns 51.200001
-d 0.000000
-newmtl BathroomWindowEdges
-Ks 0 0 0
-Ns 51.200001
+# Blender MTL File: 'ENVI_Bathroom.blend'
+# Material Count: 14
+
+newmtl BathroomCeiling
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
 d 1.000000
-newmtl BathroomWindowFrame
-Ks 0 0 0
-Ns 51.200001
-d 1.000000
-newmtl STX04BathroomTexture1Window01edgesLight
-Ks 0 0 0
-Ns 51.200001
-map_Kd TEXBathroomTexture1.png
-d 1.000000
-newmtl hallwayFloor
-Ks 0 0 0
-Ns 51.200001
-d 1.000000
-newmtl STX02Bathroomfloor
-Ks 0 0 0
-Ns 51.200001
-map_Kd TEXbathroomfloorTile.png
-d 1.000000
-newmtl BathroomDoorFrame
-Ks 0 0 0
-Ns 51.200001
-d 1.000000
-newmtl hallwayBackwall
-Ks 0 0 0
-Ns 51.200001
-d 1.000000
-newmtl hallwayBackwallrunner
-Ks 0 0 0
-Ns 51.200001
-d 1.000000
-newmtl BathroomTexture03WallRunner02
-Ks 0 0 0
-Ns 51.200001
-d 1.000000
-newmtl hallwaySidewallrunner
-Ks 0 0 0
-Ns 51.200001
-d 1.000000
-newmtl hallwaySidewall
-Ks 0 0 0
-Ns 51.200001
-d 1.000000
-newmtl BathroomTexture03WallRunner01
-Ks 0 0 0
-Ns 51.200001
-d 1.000000
-newmtl STX01BathroomWallTiles01
-Ks 0 0 0
-Ns 51.200001
-map_Kd TEXBathroomwallTile.png
-d 1.000000
-newmtl STX01BathroomWallTiles02
-Ks 0 0 0
-Ns 51.200001
-map_Kd TEXBathroomwallTile.png
-d 1.000000
-newmtl STX03BathroomfeatureTile2
-Ks 0 0 0
-Ns 51.200001
-map_Kd TEXBathroomfeatureTile.png
-d 1.000000
-newmtl STX04BathroomTexture1Wall02
-Ks 0 0 0
-Ns 51.200001
-map_Kd TEXBathroomTexture1.png
-d 1.000000
-newmtl STX03BathroomfeatureTile1
-Ks 0 0 0
-Ns 51.200001
-map_Kd TEXBathroomfeatureTile.png
-d 1.000000
-newmtl STX04BathroomTexture1Wall01
-Ks 0 0 0
-Ns 51.200001
-map_Kd TEXBathroomTexture1.png
-d 1.000000
-newmtl Bathroomglasswindow04
-Ks 0 0 0
-Ns 51.200001
-map_Kd TEXbathroomglass.png
-d 1.000000
-newmtl STX05BathroomColour01roof
-Ks 0 0 0
-Ns 51.200001
+illum 1
 map_Kd TEXBathroomColour01.png
+
+newmtl BathroomDoorFrame
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.119538 0.119538
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
 d 1.000000
+illum 1
+
+newmtl BathroomFeatureTile
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd TEXBathroomfeatureTile.png
+
+newmtl BathroomFloor
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd TEXbathroomfloorTile.png
+
+newmtl BathroomGlassWindow
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.054969 0.054969 0.054969
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd TEXbathroomglass.png
+
+newmtl BathroomWall
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd TEXBathroomTexture1.png
+
+newmtl BathroomWallRunner
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.351533 0.351533 0.871367
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+
+newmtl BathroomWallTiles
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd TEXBathroomwallTile.png
+
+newmtl BathroomWindowEdges
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.119538 0.119538
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+
+newmtl BathroomWindowEdgesLight
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.806952 0.806952
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd TEXBathroomTexture1.png
+
+newmtl BathroomWindowFrame
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.661864 0.661864
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+
+newmtl HallwayFloor
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.351533 0.000000 0.351533
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+
+newmtl HallwayWall
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.527115 0.000000 0.527115
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+
+newmtl HallwayWallRunner
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 0.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
