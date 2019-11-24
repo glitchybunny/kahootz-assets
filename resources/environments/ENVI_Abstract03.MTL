@@ -1,29 +1,57 @@
-newmtl Abstract03CollisionBox
-Ks 0 0 0
-Ns 51.200001
-d 0.000000
-newmtl STX03Abstract03main03
-Ks 0 0 0
-Ns 51.200001
-map_Kd TEXAbstract03Main03.png
-d 1.000000
+# Blender MTL File: 'ENVI_Abstract03.blend'
+# Material Count: 5
+
 newmtl STX01Abstract03main01
-Ks 0 0 0
-Ns 51.200001
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
 map_Kd TEXAbstract03Main01.png
-d 1.000000
+
 newmtl STX02Abstract03main02
-Ks 0 0 0
-Ns 51.200001
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
 map_Kd TEXAbstract03Main02.png
+
+newmtl STX03Abstract03main03
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
 d 1.000000
+illum 1
+map_Kd TEXAbstract03Main03.png
+
 newmtl STX04Abstract03Shapes01
-Ks 0 0 0
-Ns 51.200001
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
 map_Kd TEXAbstract03Shapes01.png
-d 1.000000
+
 newmtl STX05Abstract03Shapes02
-Ks 0 0 0
-Ns 51.200001
-map_Kd TEXAbstract03Shapes02.png
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
 d 1.000000
+illum 1
+map_Kd TEXAbstract03Shapes02.png

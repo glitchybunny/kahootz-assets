@@ -1,52 +1,89 @@
-newmtl ballroomColliionBox
-Ka 0 0 0
-Ks 0 0 0
-Ns 12.799999
-d 0.000000
-newmtl STX04Ballroomceiling
-Ka 1 1 1
-Ks 0 0 0
-Ns 12.799999
-map_Kd TEXBallroomceiling.png
-d 1.000000
-newmtl STX03Ballroomredcarpet
-Ka 1 1 1
-Ks 0 0 0
-Ns 12.799999
-map_Kd TEXBallroomredcarpet.png
-d 1.000000
-newmtl STX01Ballroomwalls
-Ka 1 1 1
-Ks 0 0 0
-Ns 12.799999
-map_Kd TEXBallroomwalls.png
-d 1.000000
-newmtl Ballroombeigepaint
-Ka 0 0 0
-Ks 0 0 0
-Ns 12.799999
-d 1.000000
-newmtl Ballroomdivider
-Ka 1 1 1
-Ks 0 0 0
-Ns 12.799999
-map_Kd TEXBallroomdivider.png
-d 1.000000
-newmtl STX02Ballroomfloor
-Ka 1 1 1
-Ks 0 0 0
-Ns 12.799999
-map_Kd TEXBallroomfloor.png
-d 1.000000
-newmtl STX05Ballroomstairs
-Ka 1 1 1
-Ks 0 0 0
-Ns 12.799999
-map_Kd TEXBallroomstairs.png
-d 1.000000
+# Blender MTL File: 'ENVI_ballroom.blend'
+# Material Count: 8
+
 newmtl Ballroombalcony
-Ka 1 1 1
-Ks 0 0 0
-Ns 12.799999
-map_Kd TEXBallroombalcony.png
+Ns 12.800003
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
 d 1.000000
+illum 1
+map_Kd TEXBallroombalcony.png
+
+newmtl Ballroombeigepaint
+Ns 12.800003
+Ka 1.000000 1.000000 1.000000
+Kd 0.496933 0.428691 0.278894
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+
+newmtl Ballroomceiling
+Ns 20.955413
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd TEXBallroomceiling.png
+
+newmtl Ballroomdivider
+Ns 12.800003
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd TEXBallroomdivider.png
+
+newmtl Ballroomfloor
+Ns 12.800003
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd TEXBallroomfloor.png
+
+newmtl Ballroomredcarpet
+Ns 12.800003
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd TEXBallroomredcarpet.png
+
+newmtl Ballroomstairs
+Ns 12.800003
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd TEXBallroomstairs.png
+
+newmtl Ballroomwalls
+Ns 12.800003
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd TEXBallroomwalls.png
