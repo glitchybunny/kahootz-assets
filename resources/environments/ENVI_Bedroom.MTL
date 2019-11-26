@@ -1,83 +1,138 @@
-newmtl BedroomCollisionBox
-Ks 0 0 0
-Ns 51.200001
-d 0.000000
-newmtl STX02BedroomTexture01WallRunner02
-Ks 0 0 0
-Ns 51.200001
-map_Kd TEXBedroomtexture01.png
+# Blender MTL File: 'ENVI_Bedroom.blend'
+# Material Count: 13
+
+newmtl BedroomDoorFrame
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
 d 1.000000
-newmtl STX02BedroomTexture01Wall02
-Ks 0 0 0
-Ns 51.200001
-map_Kd TEXBedroomtexture01.png
-d 1.000000
-newmtl STX02BedroomTexture01WallRunner01
-Ks 0 0 0
-Ns 51.200001
-map_Kd TEXBedroomtexture01.png
-d 1.000000
-newmtl STX02BedroomTexture01Window01Frame
-Ks 0 0 0
-Ns 51.200001
-map_Kd TEXBedroomtexture01.png
-d 1.000000
-newmtl STX04BedroomTexture02Window01edgesLight
-Ks 0 0 0
-Ns 51.200001
+illum 1
 map_Kd TEXBedroomtexture02.png
+
+newmtl BedroomFloor
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
 d 1.000000
-newmtl STX04BedroomTexture02Window01edges
-Ks 0 0 0
-Ns 51.200001
-map_Kd TEXBedroomtexture02.png
-d 1.000000
-newmtl STX05BedroomColour01Roof
-Ks 0 0 0
-Ns 51.200001
-map_Kd TEXBedroomColour01.png
-d 1.000000
-newmtl STX01Bedroomfloor
-Ks 0 0 0
-Ns 51.200001
+illum 1
 map_Kd TEXBedroomfloor.png
+
+newmtl BedroomRoof
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
 d 1.000000
-newmtl STX02BedroomTexture01Wall01
-Ks 0 0 0
-Ns 51.200001
+illum 1
+map_Kd TEXBedroomColour01.png
+
+newmtl BedroomWall
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
 map_Kd TEXBedroomtexture01.png
+
+newmtl BedroomWallRunner
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.147027 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
 d 1.000000
-newmtl BedroomhallwayFloor
-Ks 0 0 0
-Ns 51.200001
+illum 1
+
+newmtl BedroomWindow
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
 d 1.000000
-newmtl BedroomhallwayRoof
-Ks 0 0 0
-Ns 51.200001
-d 1.000000
-newmtl BedroomhallwayWallRunner2
-Ks 0 0 0
-Ns 51.200001
-d 1.000000
-newmtl BedroomhallwayWall2
-Ks 0 0 0
-Ns 51.200001
-d 1.000000
-newmtl BedroomHallway
-Ks 0 0 0
-Ns 51.200001
-d 1.000000
-newmtl BedroomHallwayWallRunner
-Ks 0 0 0
-Ns 51.200001
-d 1.000000
-newmtl STX04BedroomTexture02DoorFrame
-Ks 0 0 0
-Ns 51.200001
-map_Kd TEXBedroomtexture02.png
-d 1.000000
-newmtl STX03Bedroomwindow
-Ks 0 0 0
-Ns 51.200001
+illum 1
 map_Kd TEXBedroomwindow.png
+
+newmtl BedroomWindowEdges
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.095308 0.423268
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
 d 1.000000
+illum 1
+
+newmtl BedroomWindowEdgesLight
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd TEXBedroomtexture02.png
+
+newmtl BedroomWindowFrame
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.219526 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+
+newmtl HallwayFloor
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.407240 0.000000 0.093059
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+
+newmtl HallwayRoof
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.401978 0.177888 0.401978
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+
+newmtl HallwayWall
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.479320 0.000000 0.104617
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+
+newmtl HallwayWallRunner
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 0.000000 0.212231
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
