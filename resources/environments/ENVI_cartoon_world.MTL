@@ -1,39 +1,66 @@
-newmtl 13Default
-Ka 0 0 0
-Ks 0 0 0
-Ns 12.799999
-d 0.000000
-newmtl STX03CartoonLandRoad
-Ka 1 1 1
-Ks 0 0 0
-Ns 12.799999
-map_Kd TEXCartoonLandRoad.png
+# Blender MTL File: 'ENVI_Cartoon_World.blend'
+# Material Count: 6
+
+newmtl Building
+Ns 12.800003
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
 d 1.000000
-newmtl STX02CartoonLandGrass
-Ka 1 1 1
-Ks 0 0 0
-Ns 12.799999
-map_Kd TEXCartoonLandGrass.png
-d 1.000000
-newmtl STX04CartoonLandBuilding
-Ka 1 1 1
-Ks 0 0 0
-Ns 12.799999
+illum 1
 map_Kd TEXCartoonLandBuilding.png
+
+newmtl BuildingInterior
+Ns 12.800003
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
 d 1.000000
-newmtl CartoonLandBuilding
-Ka 0 0 0
-Ks 0 0 0
-Ns 12.799999
+illum 1
+
+newmtl BuildingRoof
+Ns 12.800003
+Ka 1.000000 1.000000 1.000000
+Kd 0.391573 0.003676 0.002428
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
 d 1.000000
-newmtl CartoonLandRoof
-Ka 0 0 0
-Ks 0 0 0
-Ns 12.799999
+illum 1
+
+newmtl Grass
+Ns 12.800003
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
 d 1.000000
-newmtl STX05CartoonLandSun
-Ka 1 1 1
-Ks 0 0 0
-Ns 12.799999
+illum 1
+map_Kd TEXCartoonLandGrass.png
+
+newmtl Road
+Ns 12.800003
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd TEXCartoonLandRoad.png
+
+newmtl Sun
+Ns 12.800003
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
 map_Kd TEXCartoonLandSun.png
-d 1.000000
