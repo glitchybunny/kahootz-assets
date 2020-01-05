@@ -1,129 +1,240 @@
-newmtl ClassroomCollisionBox
-Ks 0 0 0
-Ns 51.200001
-d 0.000000
-newmtl null
-Ka 1 1 1
-Ks 0 0 0
-Ns 0.000000
-d 0.000000
-newmtl STX01ClassroomTexture01backwall
-Ks 0 0 0
-Ns 51.200001
-map_Kd TEXClassroomtexture01.png
+# Blender MTL File: 'ENVI_Classroom.blend'
+# Material Count: 23
+
+newmtl Blackboard
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.028426 0.028426 0.064803
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
 d 1.000000
-newmtl STX01ClassroomTexture01frontwallShadow
-Ks 0 0 0
-Ns 51.200001
-map_Kd TEXClassroomtexture01.png
+illum 1
+
+newmtl BlackboardLedge
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.215861 0.000000 0.215861
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
 d 1.000000
-newmtl ClassroomwindowFrame
-Ks 0 0 0
-Ns 51.200001
+illum 1
+
+newmtl BlackboardSides
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
 d 1.000000
-newmtl ClassroomwindowFrameInside
-Ks 0 0 0
-Ns 51.200001
+illum 1
+
+newmtl CeilingClassroom
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
 d 1.000000
-newmtl STX05ClassroomTexture02sidewall
-Ks 0 0 0
-Ns 51.200001
-map_Kd TEXClassroomtexture02.png
-d 1.000000
-newmtl STX01ClassroomTexture01frontwallTop
-Ks 0 0 0
-Ns 51.200001
-map_Kd TEXClassroomtexture01.png
-d 1.000000
-newmtl STX01ClassroomTexture01frontwallBottom
-Ks 0 0 0
-Ns 51.200001
-map_Kd TEXClassroomtexture01.png
-d 1.000000
-newmtl STX02Classroomblackboard
-Ks 0 0 0
-Ns 51.200001
-map_Kd TEXClassroomBlackboard.png
-d 1.000000
-newmtl ClassroomblackboardSides
-Ks 0 0 0
-Ns 51.200001
-d 1.000000
-newmtl ClassroomblackboardLedgeFront
-Ks 0 0 0
-Ns 51.200001
-d 1.000000
-newmtl STX03Classroomfloor
-Ks 0 0 0
-Ns 51.200001
-map_Kd TEXClassroomfloor.png
-d 1.000000
-newmtl STX05ClassroomTexture02sidewallShadow
-Ks 0 0 0
-Ns 51.200001
-map_Kd TEXClassroomtexture02.png
-d 1.000000
-newmtl STX04Classroomroof
-Ks 0 0 0
-Ns 51.200001
+illum 1
 map_Kd TEXClassroomroof.png
+
+newmtl CeilingHallway
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
 d 1.000000
-newmtl ClassroomlightBulbs
-Ks 0 0 0
-Ns 51.200001
+illum 1
+
+newmtl Doorframe
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
 d 1.000000
-newmtl Classroomlights
-Ks 0 0 0
-Ns 51.200001
+illum 1
+map_Kd TEXClassroomtexture02.png
+
+newmtl FloorClassroom
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
 d 1.000000
-newmtl ClassroomfloorRunnerTop
-Ks 0 0 0
-Ns 51.200001
+illum 1
+map_Kd TEXClassroomfloor.png
+
+newmtl FloorHallway
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
 d 1.000000
-newmtl ClassroomfloorRunner
-Ks 0 0 0
-Ns 51.200001
-d 1.000000
-newmtl classroomhallwayFloor
-Ks 0 0 0
-Ns 51.200001
+illum 1
 map_Kd TEXClassroomHallwayFloor.png
+
+newmtl LightBulbs
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
 d 1.000000
-newmtl classroomhallway
-Ks 0 0 0
-Ns 51.200001
+illum 1
+
+newmtl Lights
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
 d 1.000000
-newmtl classroomhallwayShade
-Ks 0 0 0
-Ns 51.200001
+illum 1
+
+newmtl Locker
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.332452 0.291771 0.577581
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
 d 1.000000
-newmtl classroomroof
-Ks 0 0 0
-Ns 51.200001
+illum 1
+
+newmtl LockerFace
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
 d 1.000000
-newmtl Classroomwindows
-Ks 0 0 0
-Ns 51.200001
-map_Kd TEXClassroomwindow.png
-d 1.000000
-newmtl ClassroomlockerShade
-Ks 0 0 0
-Ns 51.200001
-d 1.000000
-newmtl ClassroomlockerBlock1
-Ks 0 0 0
-Ns 51.200001
+illum 1
 map_Kd TEXClassroomlocker.png
+
+newmtl LockerHighlight
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.921582 0.854993 0.991102
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
 d 1.000000
-newmtl ClassroomlockerHighlight
-Ks 0 0 0
-Ns 51.200001
+illum 1
+
+newmtl LockerLegs
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.393114 0.393114 0.393114
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
 d 1.000000
-newmtl Classroomlockers
-Ks 0 0 0
-Ns 51.200001
+illum 1
+
+newmtl LockerShadow
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.051269 0.000000 0.215861
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
 d 1.000000
-newmtl ClassroomlockerLegs
-Ks 0 0 0
-Ns 51.200001
+illum 1
+
+newmtl RunnerFloor
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.287441 0.287441 0.982251
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
 d 1.000000
+illum 1
+
+newmtl RunnerFloorTop
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.467784 0.467784 0.982251
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+
+newmtl WallHallway
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.982251 0.982251 0.212231
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+
+newmtl WallLime
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd TEXClassroomtexture02.png
+
+newmtl WallPink
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd TEXClassroomtexture01.png
+
+newmtl Window
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd TEXClassroomwindow.png
+
+newmtl WindowFrame
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+
+newmtl WindowFrameInside
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.473532 0.473532 0.304987
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
