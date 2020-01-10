@@ -1,42 +1,44 @@
-newmtl CrystalCaveCollisionBox
-Ks 0 0 0
-Ns 51.200001
-d 0.000000
-newmtl STX02CrystalCavefloor
-Ns 128.000000
+# Blender MTL File: 'ENVI_CrystalCave.blend'
+# Material Count: 4
+
+newmtl Crystal
+Ns 127.999985
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+newmtl Floor
+Ns 127.999985
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
 map_Kd TEXCrystalCavefloor.png
+
+newmtl Light
+Ns 127.999985
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
 d 1.000000
-newmtl STX03CrystalCavewall
-Ns 128.000000
+illum 1
+
+newmtl Wall
+Ns 127.999985
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
 map_Kd TEXCrystalCavewall.png
-d 1.000000
-newmtl STX03CrystalCavewallroof
-Ns 128.000000
-map_Kd TEXCrystalCavewall.png
-d 1.000000
-newmtl STX04CrystalCaveskylight
-Ks 0 0 0
-Ns 128.000000
-map_Kd TEXCrystalCaveskyLight.png
-d 1.000000
-newmtl STX01CrystalCavecrystal01
-Ns 128.000000
-map_Kd TEXCrystalCavecrystal.png
-d 1.000000
-newmtl STX01CrystalCavecrystal02
-Ns 128.000000
-map_Kd TEXCrystalCavecrystal.png
-d 1.000000
-newmtl STX01CrystalCavecrystal03
-Ns 128.000000
-map_Kd TEXCrystalCavecrystal.png
-d 1.000000
-newmtl STX01CrystalCavecrystal04
-Ns 128.000000
-map_Kd TEXCrystalCavecrystal.png
-d 1.000000
-newmtl STX04CrystalCaveskylightdoorWay
-Ks 0 0 0
-Ns 128.000000
-map_Kd TEXCrystalCaveskyLight.png
-d 1.000000

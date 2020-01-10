@@ -1,35 +1,57 @@
+# Blender MTL File: 'ENVI_DigitalWorld.blend'
+# Material Count: 5
+
 newmtl STX01DigitalWorldGrid
-Ka 1 1 1
-Ks 0 0 0
-Ns 12.799999
+Ns 12.800003
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
 map_Kd TEXDigitalWorldGridBlueA.png
-d 1.000000
-newmtl STX03DigitalWorldBlueLight
-Ka 1 1 1
-Ks 0 0 0
-Ns 12.799999
-map_Kd TEXDigitalWorldLight.png
-d 1.000000
-newmtl STX05DigitalWorldYellowLight
-Ka 1 1 1
-Ks 0 0 0
-Ns 12.799999
-map_Kd TEXDigitalWorldYellowLight.png
-d 1.000000
-newmtl STX04DigitalWorldRedLight
-Ka 1 1 1
-Ks 0 0 0
-Ns 12.799999
-map_Kd TEXDigitalWorldRedLight.png
-d 1.000000
+
 newmtl STX02DigitalWorldRedGrid
-Ka 1 1 1
-Ks 0 0 0
-Ns 12.799999
-map_Kd TEXDigitalWorldGridRed.png
+Ns 12.800003
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
 d 1.000000
-newmtl 06Default
-Ka 0 0 0
-Ks 0 0 0
-Ns 12.799999
-d 0.000000
+illum 1
+map_Kd TEXDigitalWorldGridRed.png
+
+newmtl STX03DigitalWorldBlueLight
+Ns 12.800003
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd TEXDigitalWorldLight.png
+
+newmtl STX04DigitalWorldRedLight
+Ns 12.800003
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd TEXDigitalWorldRedLight.png
+
+newmtl STX05DigitalWorldYellowLight
+Ns 12.800003
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd TEXDigitalWorldYellowLight.png
