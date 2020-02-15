@@ -1,0 +1,72 @@
+newmtl ElevatorCollisionBox
+Ks 0 0 0
+Ns 51.200001
+d 0.000000
+newmtl ElevatorFoyerMetalDark
+Ns 128.000000
+map_Kd TEXElevatorFoyerMetal.png
+d 1.000000
+newmtl ElevatorFoyerMetalLight
+Ns 128.000000
+map_Kd TEXElevatorFoyerMetal.png
+d 1.000000
+newmtl ElevatorFoyerMetalSlidingDoor
+Ns 128.000000
+map_Kd TEXElevatorFoyerMetal.png
+d 1.000000
+newmtl ElevatorFoyerGratingDark
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXElevatorFoyerGrating.png
+d 1.000000
+newmtl ElevatorFoyerGratingLight
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXElevatorFoyerGrating.png
+d 1.000000
+newmtl ElevatorFoyerFoyerRunners
+Ks 0 0 0
+Ns 51.200001
+d 1.000000
+newmtl STX01ElevatorFoyerRoof
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXElevatorFoyerRoof.png
+d 1.000000
+newmtl STX02ElevatorFoyerWallExteriorFloorDividerLight
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXElevatorFoyerWall.png
+d 1.000000
+newmtl STX02ElevatorFoyerWallExteriorFloorDividerDark
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXElevatorFoyerWall.png
+d 1.000000
+newmtl STX03ElevatorFoyerFloorlobby
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXElevatorFoyerFloor.png
+d 1.000000
+newmtl STX04ElevatorFoyerWindow
+Ns 128.000000
+map_Kd TEXElevatorFoyerWindow.png
+d 1.000000
+newmtl ElevatorFoyerGlassDivider
+Ns 128.000000
+d 0.400000
+newmtl STX02ElevatorFoyerWallBackWall
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXElevatorFoyerWall.png
+d 1.000000
+newmtl ElevatorFoyerDoor
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXElevatorFoyerDoor.png
+d 1.000000
+newmtl ElevatorFoyerAttriumRoof
+Ks 0 0 0
+Ns 51.200001
+map_Kd TEXElevatorFoyerAttriumRoof.png
+d 1.000000

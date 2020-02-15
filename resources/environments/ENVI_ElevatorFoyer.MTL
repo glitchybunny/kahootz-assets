@@ -1,72 +1,164 @@
-newmtl ElevatorCollisionBox
-Ks 0 0 0
-Ns 51.200001
-d 0.000000
-newmtl ElevatorFoyerMetalDark
-Ns 128.000000
-map_Kd TEXElevatorFoyerMetal.png
+# Blender MTL File: 'ENVI_ElevatorFoyer.blend'
+# Material Count: 15
+
+newmtl ElevatorFoyer_AttriumRoof.001
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
 d 1.000000
-newmtl ElevatorFoyerMetalLight
-Ns 128.000000
-map_Kd TEXElevatorFoyerMetal.png
+illum 1
+map_Kd TEX_ElevatorFoyer_AttriumRoof.png
+
+newmtl ElevatorFoyer_Door.001
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
 d 1.000000
-newmtl ElevatorFoyerMetalSlidingDoor
-Ns 128.000000
-map_Kd TEXElevatorFoyerMetal.png
+illum 1
+map_Kd TEX_ElevatorFoyer_Door.png
+
+newmtl ElevatorFoyer_FoyerRunners.001
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
 d 1.000000
-newmtl ElevatorFoyerGratingDark
-Ks 0 0 0
-Ns 51.200001
-map_Kd TEXElevatorFoyerGrating.png
-d 1.000000
-newmtl ElevatorFoyerGratingLight
-Ks 0 0 0
-Ns 51.200001
-map_Kd TEXElevatorFoyerGrating.png
-d 1.000000
-newmtl ElevatorFoyerFoyerRunners
-Ks 0 0 0
-Ns 51.200001
-d 1.000000
-newmtl STX01ElevatorFoyerRoof
-Ks 0 0 0
-Ns 51.200001
-map_Kd TEXElevatorFoyerRoof.png
-d 1.000000
-newmtl STX02ElevatorFoyerWallExteriorFloorDividerLight
-Ks 0 0 0
-Ns 51.200001
-map_Kd TEXElevatorFoyerWall.png
-d 1.000000
-newmtl STX02ElevatorFoyerWallExteriorFloorDividerDark
-Ks 0 0 0
-Ns 51.200001
-map_Kd TEXElevatorFoyerWall.png
-d 1.000000
-newmtl STX03ElevatorFoyerFloorlobby
-Ks 0 0 0
-Ns 51.200001
-map_Kd TEXElevatorFoyerFloor.png
-d 1.000000
-newmtl STX04ElevatorFoyerWindow
-Ns 128.000000
-map_Kd TEXElevatorFoyerWindow.png
-d 1.000000
-newmtl ElevatorFoyerGlassDivider
-Ns 128.000000
+illum 1
+
+newmtl ElevatorFoyer_GlassDivider.001
+Ns 127.999985
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
 d 0.400000
-newmtl STX02ElevatorFoyerWallBackWall
-Ks 0 0 0
-Ns 51.200001
-map_Kd TEXElevatorFoyerWall.png
+illum 1
+
+newmtl ElevatorFoyer_Grating_Dark.001
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
 d 1.000000
-newmtl ElevatorFoyerDoor
-Ks 0 0 0
-Ns 51.200001
-map_Kd TEXElevatorFoyerDoor.png
+illum 1
+map_Kd TEX_ElevatorFoyer_Grating.png
+
+newmtl ElevatorFoyer_Grating_Light.001
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
 d 1.000000
-newmtl ElevatorFoyerAttriumRoof
-Ks 0 0 0
-Ns 51.200001
-map_Kd TEXElevatorFoyerAttriumRoof.png
+illum 1
+map_Kd TEX_ElevatorFoyer_Grating.png
+
+newmtl ElevatorFoyer_Metal_Dark.001
+Ns 127.999985
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
 d 1.000000
+illum 1
+map_Kd TEX_ElevatorFoyer_Metal.png
+
+newmtl ElevatorFoyer_Metal_Light.001
+Ns 127.999985
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd TEX_ElevatorFoyer_Metal.png
+
+newmtl ElevatorFoyer_Metal_SlidingDoor.001
+Ns 127.999985
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd TEX_ElevatorFoyer_Metal.png
+
+newmtl STX01_ElevatorFoyer_Roof.001
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd TEX_ElevatorFoyer_Roof.png
+
+newmtl STX02_ElevatorFoyer_WallBackWall.001
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd TEX_ElevatorFoyer_Wall.png
+
+newmtl STX02_ElevatorFoyer_WallExteriorFloorDivider_Dark.001
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd TEX_ElevatorFoyer_Wall.png
+
+newmtl STX02_ElevatorFoyer_WallExteriorFloorDivider_Light.001
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd TEX_ElevatorFoyer_Wall.png
+
+newmtl STX03_ElevatorFoyer_Floor_lobby.001
+Ns 51.200012
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd TEX_ElevatorFoyer_Floor.png
+
+newmtl STX04_ElevatorFoyer_Window.001
+Ns 127.999985
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
