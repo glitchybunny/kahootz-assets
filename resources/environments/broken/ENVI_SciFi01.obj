@@ -1,9 +1,0 @@
-c_interp on
-d_interp on
-mtllib ENVI_SciFi01.MTL
-g SciFi01CollisionBox
-usemtl SciFi01CollisionBox
-g SciFi01AniWarp03840
-usemtl null
-g SciFi01Sphere01
-usemtl STX01SciFi01InnerSphere
